@@ -1,0 +1,24 @@
+{
+ "Alpha-3 code":"VAT",
+ "Country or Area":"Holy See",
+ "Latitude (average)":41.9,
+ "Longitude (average)":12.45,
+ "Group 1":"Europe",
+ "Group 2":"Southern Europe",
+ "LDC":false,
+ "LLDC":false,
+ "SIDS":false,
+ "Income group":"",
+ "UNDP_Region":"",
+ "indicators":[
+  {
+   "indicator":"degreeofimplementationofinternationalinstrumentsaimingtocombatillegalunreportedunregulatedfishing_ilfish",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":4.0
+    }
+   ]
+  }
+ ]
+}

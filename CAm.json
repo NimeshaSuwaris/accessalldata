@@ -1,0 +1,95 @@
+{
+ "Alpha-3 code":"CAm",
+ "Country or Area":"Central America",
+ "Latitude (average)":0.0,
+ "Longitude (average)":0.0,
+ "Group 1":"",
+ "Group 2":"",
+ "LDC":false,
+ "LLDC":false,
+ "SIDS":false,
+ "Income group":"",
+ "indicators":[
+  {
+   "indicator":"abortion_abrtlr",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":21.0
+    }
+   ]
+  },
+  {
+   "indicator":"contraceptiveservices_cslr",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":85.0
+    }
+   ]
+  },
+  {
+   "indicator":"guaranteeaccesstosexualreproductivehealthcareeducationinformation_srhlrcten",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":85.0
+    }
+   ]
+  },
+  {
+   "indicator":"hivconfidentiality_hivconf",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":98.0
+    }
+   ]
+  },
+  {
+   "indicator":"hivtreatmentandcareservice_hivtcs",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":90.0
+    }
+   ]
+  },
+  {
+   "indicator":"lifesavingcommodities_lsclr",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":93.0
+    }
+   ]
+  },
+  {
+   "indicator":"maternitycare_mclr",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":69.0
+    }
+   ]
+  },
+  {
+   "indicator":"sexualandreproductivehealthlawsandregulations_srhlr",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":84.0
+    }
+   ]
+  },
+  {
+   "indicator":"sexualityeducation_selr",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":75.0
+    }
+   ]
+  }
+ ]
+}

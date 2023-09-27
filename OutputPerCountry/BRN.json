@@ -869,6 +869,40 @@
    ]
   },
   {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-1.3
+    },
+    {
+     "year":2040,
+     "value":1.91
+    },
+    {
+     "year":2090,
+     "value":3.52
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-1.02
+    },
+    {
+     "year":2040,
+     "value":4.03
+    },
+    {
+     "year":2090,
+     "value":17.83
+    }
+   ]
+  },
+  {
    "indicator":"climate_risks_index_cw",
    "yearlyData":[
     {

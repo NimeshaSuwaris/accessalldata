@@ -124,7 +124,7 @@
     },
     {
      "year":2007,
-     "value":1030442463.0
+     "value":1030442463.4099999666
     },
     {
      "year":2008,
@@ -1637,6 +1637,40 @@
     {
      "year":2021,
      "value":-1.03
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":7.43
+    },
+    {
+     "year":2040,
+     "value":16.53
+    },
+    {
+     "year":2090,
+     "value":32.24
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":8.7
+    },
+    {
+     "year":2040,
+     "value":29.57
+    },
+    {
+     "year":2090,
+     "value":136.18
     }
    ]
   },
@@ -14822,11 +14856,11 @@
    "yearlyData":[
     {
      "year":2018,
-     "value":53.0
+     "value":80.0
     },
     {
      "year":2019,
-     "value":47.0
+     "value":53.0
     },
     {
      "year":2020,
@@ -15612,7 +15646,7 @@
     },
     {
      "year":2007,
-     "value":1030442463.0
+     "value":1030442463.4099999666
     },
     {
      "year":2008,

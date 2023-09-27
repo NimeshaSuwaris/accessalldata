@@ -12,6 +12,40 @@
  "UNDP_Region":"",
  "indicators":[
   {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-2.71
+    },
+    {
+     "year":2040,
+     "value":-6.24
+    },
+    {
+     "year":2090,
+     "value":-6.16
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-3.29
+    },
+    {
+     "year":2040,
+     "value":-9.68
+    },
+    {
+     "year":2090,
+     "value":-14.19
+    }
+   ]
+  },
+  {
    "indicator":"coverageofprotectedareasinrelationtomarineareas_ermrmmpa",
    "yearlyData":[
     {

@@ -1,11 +1,14 @@
 {
- "indicator":"mentalhealthoutpatientfacilities_mhof",
+ "indicator":"mentalhealthdaytreatmentfacilities_mhdtf",
  "countryData":[
   {
    "Alpha-3 code":"DZA",
    "Country or Area":"Algeria",
    "data":[
-
+    {
+     "year":2011,
+     "value":30000.0
+    }
    ]
   },
   {
@@ -13,8 +16,8 @@
    "Country or Area":"Egypt",
    "data":[
     {
-     "year":2016,
-     "value":0.01
+     "year":2010,
+     "value":28300.0
     }
    ]
   },
@@ -30,8 +33,8 @@
    "Country or Area":"Morocco",
    "data":[
     {
-     "year":2016,
-     "value":0.1
+     "year":2014,
+     "value":21000.0
     }
    ]
   },
@@ -46,7 +49,10 @@
    "Alpha-3 code":"TUN",
    "Country or Area":"Tunisia",
    "data":[
-
+    {
+     "year":2014,
+     "value":16000.0
+    }
    ]
   },
   {
@@ -67,10 +73,7 @@
    "Alpha-3 code":"BDI",
    "Country or Area":"Burundi",
    "data":[
-    {
-     "year":2017,
-     "value":0.03
-    }
+
    ]
   },
   {
@@ -112,17 +115,17 @@
    "Alpha-3 code":"KEN",
    "Country or Area":"Kenya",
    "data":[
-
+    {
+     "year":2005,
+     "value":909182.0
+    }
    ]
   },
   {
    "Alpha-3 code":"MDG",
    "Country or Area":"Madagascar",
    "data":[
-    {
-     "year":2016,
-     "value":0.0
-    }
+
    ]
   },
   {
@@ -150,10 +153,7 @@
    "Alpha-3 code":"MOZ",
    "Country or Area":"Mozambique",
    "data":[
-    {
-     "year":2016,
-     "value":0.02
-    }
+
    ]
   },
   {
@@ -174,10 +174,7 @@
    "Alpha-3 code":"SYC",
    "Country or Area":"Seychelles",
    "data":[
-    {
-     "year":2016,
-     "value":1.07
-    }
+
    ]
   },
   {
@@ -219,17 +216,17 @@
    "Alpha-3 code":"ZWE",
    "Country or Area":"Zimbabwe",
    "data":[
-    {
-     "year":2016,
-     "value":0.01
-    }
+
    ]
   },
   {
    "Alpha-3 code":"AGO",
    "Country or Area":"Angola",
    "data":[
-
+    {
+     "year":2009,
+     "value":5495.95
+    }
    ]
   },
   {
@@ -293,8 +290,8 @@
    "Country or Area":"Botswana",
    "data":[
     {
-     "year":2017,
-     "value":0.05
+     "year":1998,
+     "value":2500.0
     }
    ]
   },
@@ -330,7 +327,10 @@
    "Alpha-3 code":"BEN",
    "Country or Area":"Benin",
    "data":[
-
+    {
+     "year":2002,
+     "value":1698.0
+    }
    ]
   },
   {
@@ -344,17 +344,17 @@
    "Alpha-3 code":"CPV",
    "Country or Area":"Cabo Verde",
    "data":[
-
+    {
+     "year":2002,
+     "value":76.0
+    }
    ]
   },
   {
    "Alpha-3 code":"CIV",
    "Country or Area":"C\u00f4te d\u2019Ivoire",
    "data":[
-    {
-     "year":2016,
-     "value":0.02
-    }
+
    ]
   },
   {
@@ -368,10 +368,7 @@
    "Alpha-3 code":"GHA",
    "Country or Area":"Ghana",
    "data":[
-    {
-     "year":2016,
-     "value":0.02
-    }
+
    ]
   },
   {
@@ -413,10 +410,7 @@
    "Alpha-3 code":"NER",
    "Country or Area":"Niger",
    "data":[
-    {
-     "year":2016,
-     "value":0.02
-    }
+
    ]
   },
   {
@@ -479,10 +473,7 @@
    "Alpha-3 code":"BHS",
    "Country or Area":"Bahamas",
    "data":[
-    {
-     "year":2015,
-     "value":0.26
-    }
+
    ]
   },
   {
@@ -517,10 +508,7 @@
    "Alpha-3 code":"CUB",
    "Country or Area":"Cuba",
    "data":[
-    {
-     "year":2016,
-     "value":0.44
-    }
+
    ]
   },
   {
@@ -541,10 +529,7 @@
    "Alpha-3 code":"DOM",
    "Country or Area":"Dominican Republic",
    "data":[
-    {
-     "year":2016,
-     "value":0.02
-    }
+
    ]
   },
   {
@@ -573,8 +558,8 @@
    "Country or Area":"Jamaica",
    "data":[
     {
-     "year":2015,
-     "value":0.17
+     "year":2009,
+     "value":206.58
     }
    ]
   },
@@ -610,10 +595,7 @@
    "Alpha-3 code":"KNA",
    "Country or Area":"Saint Kitts and Nevis",
    "data":[
-    {
-     "year":2017,
-     "value":1.84
-    }
+
    ]
   },
   {
@@ -634,10 +616,7 @@
    "Alpha-3 code":"VCT",
    "Country or Area":"Saint Vincent and the Grenadines",
    "data":[
-    {
-     "year":2017,
-     "value":35.63
-    }
+
    ]
   },
   {
@@ -652,8 +631,8 @@
    "Country or Area":"Trinidad and Tobago",
    "data":[
     {
-     "year":2017,
-     "value":0.07
+     "year":2008,
+     "value":250.75
     }
    ]
   },
@@ -676,8 +655,8 @@
    "Country or Area":"Belize",
    "data":[
     {
-     "year":2016,
-     "value":0.28
+     "year":2013,
+     "value":188.0
     }
    ]
   },
@@ -685,10 +664,7 @@
    "Alpha-3 code":"CRI",
    "Country or Area":"Costa Rica",
    "data":[
-    {
-     "year":2016,
-     "value":0.12
-    }
+
    ]
   },
   {
@@ -702,7 +678,10 @@
    "Alpha-3 code":"GTM",
    "Country or Area":"Guatemala",
    "data":[
-
+    {
+     "year":2010,
+     "value":818.6
+    }
    ]
   },
   {
@@ -717,8 +696,8 @@
    "Country or Area":"Mexico",
    "data":[
     {
-     "year":2016,
-     "value":0.08
+     "year":2015,
+     "value":978.06
     }
    ]
   },
@@ -734,8 +713,8 @@
    "Country or Area":"Panama",
    "data":[
     {
-     "year":2016,
-     "value":0.03
+     "year":2011,
+     "value":3094.7
     }
    ]
   },
@@ -750,7 +729,10 @@
    "Alpha-3 code":"BOL",
    "Country or Area":"Bolivia (Plurinational State of)",
    "data":[
-
+    {
+     "year":2010,
+     "value":4683.0
+    }
    ]
   },
   {
@@ -764,24 +746,27 @@
    "Alpha-3 code":"BRA",
    "Country or Area":"Brazil",
    "data":[
-
+    {
+     "year":2015,
+     "value":260063.0
+    }
    ]
   },
   {
    "Alpha-3 code":"CHL",
    "Country or Area":"Chile",
    "data":[
-    {
-     "year":2016,
-     "value":0.32
-    }
+
    ]
   },
   {
    "Alpha-3 code":"COL",
    "Country or Area":"Colombia",
    "data":[
-
+    {
+     "year":2015,
+     "value":27704.0
+    }
    ]
   },
   {
@@ -789,8 +774,8 @@
    "Country or Area":"Ecuador",
    "data":[
     {
-     "year":2016,
-     "value":3.01
+     "year":2015,
+     "value":11292.0
     }
    ]
   },
@@ -819,10 +804,7 @@
    "Alpha-3 code":"PRY",
    "Country or Area":"Paraguay",
    "data":[
-    {
-     "year":2016,
-     "value":0.02
-    }
+
    ]
   },
   {
@@ -830,8 +812,8 @@
    "Country or Area":"Peru",
    "data":[
     {
-     "year":2016,
-     "value":0.02
+     "year":2009,
+     "value":7176.0
     }
    ]
   },
@@ -846,17 +828,17 @@
    "Alpha-3 code":"SUR",
    "Country or Area":"Suriname",
    "data":[
-
+    {
+     "year":2010,
+     "value":1270.2
+    }
    ]
   },
   {
    "Alpha-3 code":"URY",
    "Country or Area":"Uruguay",
    "data":[
-    {
-     "year":2016,
-     "value":0.61
-    }
+
    ]
   },
   {
@@ -898,7 +880,10 @@
    "Alpha-3 code":"USA",
    "Country or Area":"United States of America",
    "data":[
-
+    {
+     "year":2012,
+     "value":2600000.0
+    }
    ]
   },
   {
@@ -919,10 +904,7 @@
    "Alpha-3 code":"KGZ",
    "Country or Area":"Kyrgyzstan",
    "data":[
-    {
-     "year":2016,
-     "value":0.05
-    }
+
    ]
   },
   {
@@ -943,10 +925,7 @@
    "Alpha-3 code":"UZB",
    "Country or Area":"Uzbekistan",
    "data":[
-    {
-     "year":2016,
-     "value":0.05
-    }
+
    ]
   },
   {
@@ -960,14 +939,20 @@
    "Alpha-3 code":"HKG",
    "Country or Area":"China, Hong Kong Special Administrative Region",
    "data":[
-
+    {
+     "year":2015,
+     "value":2268.0
+    }
    ]
   },
   {
    "Alpha-3 code":"MAC",
    "Country or Area":"China, Macao Special Administrative Region",
    "data":[
-
+    {
+     "year":2009,
+     "value":11493.0
+    }
    ]
   },
   {
@@ -982,8 +967,8 @@
    "Country or Area":"Japan",
    "data":[
     {
-     "year":2016,
-     "value":3.76
+     "year":2004,
+     "value":320000.0
     }
    ]
   },
@@ -991,17 +976,17 @@
    "Alpha-3 code":"MNG",
    "Country or Area":"Mongolia",
    "data":[
-
+    {
+     "year":2005,
+     "value":967.25
+    }
    ]
   },
   {
    "Alpha-3 code":"KOR",
    "Country or Area":"Republic of Korea",
    "data":[
-    {
-     "year":2016,
-     "value":0.13
-    }
+
    ]
   },
   {
@@ -1009,8 +994,8 @@
    "Country or Area":"Brunei Darussalam",
    "data":[
     {
-     "year":2016,
-     "value":0.72
+     "year":2001,
+     "value":195.0
     }
    ]
   },
@@ -1018,21 +1003,30 @@
    "Alpha-3 code":"KHM",
    "Country or Area":"Cambodia",
    "data":[
-
+    {
+     "year":2007,
+     "value":147.09
+    }
    ]
   },
   {
    "Alpha-3 code":"IDN",
    "Country or Area":"Indonesia",
    "data":[
-
+    {
+     "year":2017,
+     "value":82125.0
+    }
    ]
   },
   {
    "Alpha-3 code":"LAO",
    "Country or Area":"Lao People's Democratic Republic",
    "data":[
-
+    {
+     "year":2015,
+     "value":1200.0
+    }
    ]
   },
   {
@@ -1040,8 +1034,8 @@
    "Country or Area":"Malaysia",
    "data":[
     {
-     "year":2016,
-     "value":3.12
+     "year":2013,
+     "value":19500.0
     }
    ]
   },
@@ -1049,27 +1043,24 @@
    "Alpha-3 code":"MMR",
    "Country or Area":"Myanmar",
    "data":[
-
+    {
+     "year":2017,
+     "value":648.2
+    }
    ]
   },
   {
    "Alpha-3 code":"PHL",
    "Country or Area":"Philippines",
    "data":[
-    {
-     "year":2016,
-     "value":0.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"SGP",
    "Country or Area":"Singapore",
    "data":[
-    {
-     "year":2016,
-     "value":0.16
-    }
+
    ]
   },
   {
@@ -1077,8 +1068,8 @@
    "Country or Area":"Thailand",
    "data":[
     {
-     "year":2016,
-     "value":0.01
+     "year":2015,
+     "value":53868.0
     }
    ]
   },
@@ -1086,35 +1077,50 @@
    "Alpha-3 code":"TLS",
    "Country or Area":"Timor-Leste",
    "data":[
-
+    {
+     "year":2014,
+     "value":53.66
+    }
    ]
   },
   {
    "Alpha-3 code":"VNM",
    "Country or Area":"Viet Nam",
    "data":[
-
+    {
+     "year":2015,
+     "value":200000.0
+    }
    ]
   },
   {
    "Alpha-3 code":"AFG",
    "Country or Area":"Afghanistan",
    "data":[
-
+    {
+     "year":2014,
+     "value":9855.0
+    }
    ]
   },
   {
    "Alpha-3 code":"BGD",
    "Country or Area":"Bangladesh",
    "data":[
-
+    {
+     "year":2008,
+     "value":12271.0
+    }
    ]
   },
   {
    "Alpha-3 code":"BTN",
    "Country or Area":"Bhutan",
    "data":[
-
+    {
+     "year":2017,
+     "value":358.0
+    }
    ]
   },
   {
@@ -1122,8 +1128,8 @@
    "Country or Area":"India",
    "data":[
     {
-     "year":2016,
-     "value":0.02
+     "year":2017,
+     "value":180784.5
     }
    ]
   },
@@ -1131,10 +1137,7 @@
    "Alpha-3 code":"IRN",
    "Country or Area":"Iran (Islamic Republic of)",
    "data":[
-    {
-     "year":2017,
-     "value":0.28
-    }
+
    ]
   },
   {
@@ -1143,7 +1146,7 @@
    "data":[
     {
      "year":2017,
-     "value":2.15
+     "value":1737.4
     }
    ]
   },
@@ -1151,14 +1154,20 @@
    "Alpha-3 code":"NPL",
    "Country or Area":"Nepal",
    "data":[
-
+    {
+     "year":2017,
+     "value":13408.27
+    }
    ]
   },
   {
    "Alpha-3 code":"PAK",
    "Country or Area":"Pakistan",
    "data":[
-
+    {
+     "year":2006,
+     "value":292000000.0
+    }
    ]
   },
   {
@@ -1167,7 +1176,7 @@
    "data":[
     {
      "year":2017,
-     "value":0.13
+     "value":9855.0
     }
    ]
   },
@@ -1175,20 +1184,14 @@
    "Alpha-3 code":"ARM",
    "Country or Area":"Armenia",
    "data":[
-    {
-     "year":2016,
-     "value":0.03
-    }
+
    ]
   },
   {
    "Alpha-3 code":"AZE",
    "Country or Area":"Azerbaijan",
    "data":[
-    {
-     "year":2016,
-     "value":0.09
-    }
+
    ]
   },
   {
@@ -1196,8 +1199,8 @@
    "Country or Area":"Bahrain",
    "data":[
     {
-     "year":2017,
-     "value":0.73
+     "year":2005,
+     "value":911000.0
     }
    ]
   },
@@ -1207,7 +1210,7 @@
    "data":[
     {
      "year":2015,
-     "value":0.52
+     "value":21404.0
     }
    ]
   },
@@ -1215,20 +1218,14 @@
    "Alpha-3 code":"GEO",
    "Country or Area":"Georgia",
    "data":[
-    {
-     "year":2016,
-     "value":0.1
-    }
+
    ]
   },
   {
    "Alpha-3 code":"IRQ",
    "Country or Area":"Iraq",
    "data":[
-    {
-     "year":2017,
-     "value":0.0
-    }
+
    ]
   },
   {
@@ -1242,14 +1239,20 @@
    "Alpha-3 code":"JOR",
    "Country or Area":"Jordan",
    "data":[
-
+    {
+     "year":2014,
+     "value":4000.0
+    }
    ]
   },
   {
    "Alpha-3 code":"KWT",
    "Country or Area":"Kuwait",
    "data":[
-
+    {
+     "year":2008,
+     "value":33000.0
+    }
    ]
   },
   {
@@ -1257,8 +1260,8 @@
    "Country or Area":"Lebanon",
    "data":[
     {
-     "year":2015,
-     "value":0.09
+     "year":2008,
+     "value":5568.0
     }
    ]
   },
@@ -1266,7 +1269,10 @@
    "Alpha-3 code":"OMN",
    "Country or Area":"Oman",
    "data":[
-
+    {
+     "year":2014,
+     "value":4500.0
+    }
    ]
   },
   {
@@ -1274,8 +1280,8 @@
    "Country or Area":"Qatar",
    "data":[
     {
-     "year":2016,
-     "value":0.11
+     "year":2008,
+     "value":450000.0
     }
    ]
   },
@@ -1290,14 +1296,20 @@
    "Alpha-3 code":"PSE",
    "Country or Area":"State of Palestine",
    "data":[
-
+    {
+     "year":2014,
+     "value":4572.0
+    }
    ]
   },
   {
    "Alpha-3 code":"SYR",
    "Country or Area":"Syrian Arab Republic",
    "data":[
-
+    {
+     "year":2010,
+     "value":4600.0
+    }
    ]
   },
   {
@@ -1311,7 +1323,10 @@
    "Alpha-3 code":"ARE",
    "Country or Area":"United Arab Emirates",
    "data":[
-
+    {
+     "year":2015,
+     "value":4573.0
+    }
    ]
   },
   {
@@ -1325,10 +1340,7 @@
    "Alpha-3 code":"BLR",
    "Country or Area":"Belarus",
    "data":[
-    {
-     "year":2016,
-     "value":0.28
-    }
+
    ]
   },
   {
@@ -1336,8 +1348,8 @@
    "Country or Area":"Bulgaria",
    "data":[
     {
-     "year":2016,
-     "value":5.94
+     "year":2015,
+     "value":518228.0
     }
    ]
   },
@@ -1345,7 +1357,10 @@
    "Alpha-3 code":"CZE",
    "Country or Area":"Czechia",
    "data":[
-
+    {
+     "year":2015,
+     "value":797432.0
+    }
    ]
   },
   {
@@ -1353,8 +1368,8 @@
    "Country or Area":"Hungary",
    "data":[
     {
-     "year":2016,
-     "value":0.02
+     "year":2014,
+     "value":489182.0
     }
    ]
   },
@@ -1363,8 +1378,8 @@
    "Country or Area":"Poland",
    "data":[
     {
-     "year":2016,
-     "value":0.72
+     "year":2014,
+     "value":2486818.0
     }
    ]
   },
@@ -1372,7 +1387,10 @@
    "Alpha-3 code":"MDA",
    "Country or Area":"Republic of Moldova",
    "data":[
-
+    {
+     "year":2010,
+     "value":15700.0
+    }
    ]
   },
   {
@@ -1380,8 +1398,8 @@
    "Country or Area":"Romania",
    "data":[
     {
-     "year":2016,
-     "value":0.28
+     "year":2014,
+     "value":915888.0
     }
    ]
   },
@@ -1389,27 +1407,24 @@
    "Alpha-3 code":"RUS",
    "Country or Area":"Russian Federation",
    "data":[
-    {
-     "year":2015,
-     "value":0.2
-    }
+
    ]
   },
   {
    "Alpha-3 code":"SVK",
    "Country or Area":"Slovakia",
    "data":[
-
+    {
+     "year":2014,
+     "value":558605.0
+    }
    ]
   },
   {
    "Alpha-3 code":"UKR",
    "Country or Area":"Ukraine",
    "data":[
-    {
-     "year":2016,
-     "value":1.58
-    }
+
    ]
   },
   {
@@ -1437,7 +1452,10 @@
    "Alpha-3 code":"DNK",
    "Country or Area":"Denmark",
    "data":[
-
+    {
+     "year":2015,
+     "value":317413.0
+    }
    ]
   },
   {
@@ -1445,8 +1463,8 @@
    "Country or Area":"Estonia",
    "data":[
     {
-     "year":2016,
-     "value":17.18
+     "year":2015,
+     "value":1750157.0
     }
    ]
   },
@@ -1461,7 +1479,10 @@
    "Alpha-3 code":"FIN",
    "Country or Area":"Finland",
    "data":[
-
+    {
+     "year":2014,
+     "value":1006713.0
+    }
    ]
   },
   {
@@ -1476,8 +1497,8 @@
    "Country or Area":"Ireland",
    "data":[
     {
-     "year":2016,
-     "value":0.09
+     "year":2014,
+     "value":776112.0
     }
    ]
   },
@@ -1493,8 +1514,8 @@
    "Country or Area":"Latvia",
    "data":[
     {
-     "year":2015,
-     "value":56.76
+     "year":2014,
+     "value":65624.0
     }
    ]
   },
@@ -1502,7 +1523,10 @@
    "Alpha-3 code":"LTU",
    "Country or Area":"Lithuania",
    "data":[
-
+    {
+     "year":2014,
+     "value":70124.0
+    }
    ]
   },
   {
@@ -1510,8 +1534,8 @@
    "Country or Area":"Norway",
    "data":[
     {
-     "year":2016,
-     "value":0.88
+     "year":2014,
+     "value":1054590.0
     }
    ]
   },
@@ -1526,21 +1550,30 @@
    "Alpha-3 code":"SWE",
    "Country or Area":"Sweden",
    "data":[
-
+    {
+     "year":2014,
+     "value":1315108.0
+    }
    ]
   },
   {
    "Alpha-3 code":"GBR",
    "Country or Area":"United Kingdom of Great Britain and Northern Ireland",
    "data":[
-
+    {
+     "year":2014,
+     "value":4218205.0
+    }
    ]
   },
   {
    "Alpha-3 code":"ALB",
    "Country or Area":"Albania",
    "data":[
-
+    {
+     "year":2015,
+     "value":114.3
+    }
    ]
   },
   {
@@ -1554,7 +1587,10 @@
    "Alpha-3 code":"BIH",
    "Country or Area":"Bosnia and Herzegovina",
    "data":[
-
+    {
+     "year":2009,
+     "value":8150.0
+    }
    ]
   },
   {
@@ -1562,8 +1598,8 @@
    "Country or Area":"Croatia",
    "data":[
     {
-     "year":2016,
-     "value":0.8
+     "year":2015,
+     "value":56814.0
     }
    ]
   },
@@ -1579,8 +1615,8 @@
    "Country or Area":"Greece",
    "data":[
     {
-     "year":2016,
-     "value":1.32
+     "year":2014,
+     "value":251623.0
     }
    ]
   },
@@ -1596,8 +1632,8 @@
    "Country or Area":"Italy",
    "data":[
     {
-     "year":2015,
-     "value":1.41
+     "year":2014,
+     "value":16071024.0
     }
    ]
   },
@@ -1605,21 +1641,30 @@
    "Alpha-3 code":"MLT",
    "Country or Area":"Malta",
    "data":[
-
+    {
+     "year":2014,
+     "value":23418.0
+    }
    ]
   },
   {
    "Alpha-3 code":"MNE",
    "Country or Area":"Montenegro",
    "data":[
-
+    {
+     "year":2015,
+     "value":2331.4
+    }
    ]
   },
   {
    "Alpha-3 code":"MKD",
    "Country or Area":"North Macedonia",
    "data":[
-
+    {
+     "year":2014,
+     "value":951293.0
+    }
    ]
   },
   {
@@ -1627,8 +1672,8 @@
    "Country or Area":"Portugal",
    "data":[
     {
-     "year":2016,
-     "value":0.52
+     "year":2014,
+     "value":817492.0
     }
    ]
   },
@@ -1644,8 +1689,8 @@
    "Country or Area":"Serbia",
    "data":[
     {
-     "year":2017,
-     "value":0.44
+     "year":2014,
+     "value":32888.0
     }
    ]
   },
@@ -1654,8 +1699,8 @@
    "Country or Area":"Slovenia",
    "data":[
     {
-     "year":2016,
-     "value":2.12
+     "year":2014,
+     "value":227873.0
     }
    ]
   },
@@ -1663,7 +1708,10 @@
    "Alpha-3 code":"ESP",
    "Country or Area":"Spain",
    "data":[
-
+    {
+     "year":2014,
+     "value":2990346.0
+    }
    ]
   },
   {
@@ -1671,8 +1719,8 @@
    "Country or Area":"Austria",
    "data":[
     {
-     "year":2015,
-     "value":2.62
+     "year":2014,
+     "value":696748.0
     }
    ]
   },
@@ -1680,28 +1728,40 @@
    "Alpha-3 code":"BEL",
    "Country or Area":"Belgium",
    "data":[
-
+    {
+     "year":2014,
+     "value":2397368.0
+    }
    ]
   },
   {
    "Alpha-3 code":"FRA",
    "Country or Area":"France",
    "data":[
-
+    {
+     "year":2014,
+     "value":4867183.0
+    }
    ]
   },
   {
    "Alpha-3 code":"DEU",
    "Country or Area":"Germany",
    "data":[
-
+    {
+     "year":2014,
+     "value":8821344.0
+    }
    ]
   },
   {
    "Alpha-3 code":"LIE",
    "Country or Area":"Liechtenstein",
    "data":[
-
+    {
+     "year":2014,
+     "value":127.0
+    }
    ]
   },
   {
@@ -1709,8 +1769,8 @@
    "Country or Area":"Luxembourg",
    "data":[
     {
-     "year":2015,
-     "value":1.06
+     "year":2014,
+     "value":47825.0
     }
    ]
   },
@@ -1718,17 +1778,17 @@
    "Alpha-3 code":"MCO",
    "Country or Area":"Monaco",
    "data":[
-    {
-     "year":2016,
-     "value":5.22
-    }
+
    ]
   },
   {
    "Alpha-3 code":"NLD",
    "Country or Area":"Netherlands",
    "data":[
-
+    {
+     "year":2014,
+     "value":2391871.0
+    }
    ]
   },
   {
@@ -1742,10 +1802,7 @@
    "Alpha-3 code":"AUS",
    "Country or Area":"Australia",
    "data":[
-    {
-     "year":2015,
-     "value":1.11
-    }
+
    ]
   },
   {
@@ -1788,8 +1845,8 @@
    "Country or Area":"Fiji",
    "data":[
     {
-     "year":2016,
-     "value":0.11
+     "year":2014,
+     "value":316.16
     }
    ]
   },
@@ -1797,28 +1854,40 @@
    "Alpha-3 code":"NCL",
    "Country or Area":"New Caledonia",
    "data":[
-
+    {
+     "year":2014,
+     "value":324.0
+    }
    ]
   },
   {
    "Alpha-3 code":"PNG",
    "Country or Area":"Papua New Guinea",
    "data":[
-
+    {
+     "year":2014,
+     "value":572.0
+    }
    ]
   },
   {
    "Alpha-3 code":"SLB",
    "Country or Area":"Solomon Islands",
    "data":[
-
+    {
+     "year":2014,
+     "value":273.34
+    }
    ]
   },
   {
    "Alpha-3 code":"VUT",
    "Country or Area":"Vanuatu",
    "data":[
-
+    {
+     "year":2014,
+     "value":139.1
+    }
    ]
   },
   {
@@ -1832,7 +1901,10 @@
    "Alpha-3 code":"KIR",
    "Country or Area":"Kiribati",
    "data":[
-
+    {
+     "year":2014,
+     "value":16.22
+    }
    ]
   },
   {
@@ -1840,8 +1912,8 @@
    "Country or Area":"Marshall Islands",
    "data":[
     {
-     "year":2017,
-     "value":1.89
+     "year":2014,
+     "value":43.16
     }
    ]
   },
@@ -1849,7 +1921,10 @@
    "Alpha-3 code":"FSM",
    "Country or Area":"Micronesia (Federated States of)",
    "data":[
-
+    {
+     "year":2014,
+     "value":73.47
+    }
    ]
   },
   {
@@ -1870,7 +1945,10 @@
    "Alpha-3 code":"PLW",
    "Country or Area":"Palau",
    "data":[
-
+    {
+     "year":2014,
+     "value":10.92
+    }
    ]
   },
   {
@@ -1891,27 +1969,24 @@
    "Alpha-3 code":"COK",
    "Country or Area":"Cook Islands",
    "data":[
-    {
-     "year":2016,
-     "value":5.73
-    }
+
    ]
   },
   {
    "Alpha-3 code":"PYF",
    "Country or Area":"French Polynesia",
    "data":[
-
+    {
+     "year":2014,
+     "value":360.0
+    }
    ]
   },
   {
    "Alpha-3 code":"NIU",
    "Country or Area":"Niue",
    "data":[
-    {
-     "year":2017,
-     "value":61.39
-    }
+
    ]
   },
   {
@@ -1926,8 +2001,8 @@
    "Country or Area":"Samoa",
    "data":[
     {
-     "year":2016,
-     "value":0.52
+     "year":2014,
+     "value":36.14
     }
    ]
   },
@@ -1942,14 +2017,20 @@
    "Alpha-3 code":"TON",
    "Country or Area":"Tonga",
    "data":[
-
+    {
+     "year":2014,
+     "value":102.23
+    }
    ]
   },
   {
    "Alpha-3 code":"TUV",
    "Country or Area":"Tuvalu",
    "data":[
-
+    {
+     "year":2014,
+     "value":5.72
+    }
    ]
   },
   {
@@ -1963,7 +2044,10 @@
    "Alpha-3 code":"XKX",
    "Country or Area":"Kosovo (as per UNSCR 1244)",
    "data":[
-
+    {
+     "year":2015,
+     "value":834.0
+    }
    ]
   }
  ]

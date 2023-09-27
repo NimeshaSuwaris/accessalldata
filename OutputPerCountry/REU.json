@@ -12,6 +12,40 @@
  "UNDP_Region":"",
  "indicators":[
   {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-4.15
+    },
+    {
+     "year":2040,
+     "value":-6.63
+    },
+    {
+     "year":2090,
+     "value":-4.83
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-5.26
+    },
+    {
+     "year":2040,
+     "value":-9.81
+    },
+    {
+     "year":2090,
+     "value":-12.68
+    }
+   ]
+  },
+  {
    "indicator":"coalelectricity_owided",
    "yearlyData":[
     {

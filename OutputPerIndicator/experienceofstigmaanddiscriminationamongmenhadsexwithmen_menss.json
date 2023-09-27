@@ -1,5 +1,5 @@
 {
- "indicator":"externalsourcesoffundinghivandstdofexternalhealthexpenditure_stdexp",
+ "indicator":"experienceofstigmaanddiscriminationamongmenhadsexwithmen_menss",
  "countryData":[
   {
    "Alpha-3 code":"DZA",
@@ -117,7 +117,10 @@
    "Alpha-3 code":"MWI",
    "Country or Area":"Malawi",
    "data":[
-
+    {
+     "year":2020,
+     "value":3.4
+    }
    ]
   },
   {
@@ -161,7 +164,7 @@
    "data":[
     {
      "year":2011,
-     "value":42.7
+     "value":42.6
     }
    ]
   },
@@ -192,7 +195,7 @@
    "data":[
     {
      "year":2017,
-     "value":47.8
+     "value":24.1
     }
    ]
   },
@@ -286,7 +289,7 @@
    "data":[
     {
      "year":2020,
-     "value":33.9
+     "value":9.1
     }
    ]
   },
@@ -338,7 +341,7 @@
    "data":[
     {
      "year":2020,
-     "value":1.6
+     "value":3.2
     }
    ]
   },
@@ -423,7 +426,10 @@
    "Alpha-3 code":"SLE",
    "Country or Area":"Sierra Leone",
    "data":[
-
+    {
+     "year":2021,
+     "value":1.9
+    }
    ]
   },
   {
@@ -675,7 +681,10 @@
    "Alpha-3 code":"NIC",
    "Country or Area":"Nicaragua",
    "data":[
-
+    {
+     "year":2020,
+     "value":3.9
+    }
    ]
   },
   {
@@ -719,7 +728,7 @@
    "data":[
     {
      "year":2018,
-     "value":0.8
+     "value":0.7
     }
    ]
   },
@@ -951,7 +960,10 @@
    "Alpha-3 code":"LAO",
    "Country or Area":"Lao People's Democratic Republic",
    "data":[
-
+    {
+     "year":2020,
+     "value":7.7
+    }
    ]
   },
   {
@@ -1072,7 +1084,7 @@
    "data":[
     {
      "year":2021,
-     "value":16.0
+     "value":7.2
     }
    ]
   },
@@ -1082,7 +1094,7 @@
    "data":[
     {
      "year":2020,
-     "value":28.4
+     "value":16.7
     }
    ]
   },
@@ -1267,7 +1279,7 @@
    "data":[
     {
      "year":2021,
-     "value":45.1
+     "value":23.6
     }
    ]
   },
@@ -1389,7 +1401,7 @@
    "data":[
     {
      "year":2019,
-     "value":4.9
+     "value":15.2
     }
    ]
   },
@@ -1483,7 +1495,7 @@
    "data":[
     {
      "year":2021,
-     "value":5.8
+     "value":1.8
     }
    ]
   },

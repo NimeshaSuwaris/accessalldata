@@ -1,5 +1,5 @@
 {
- "indicator":"changeinpovertygapduetooutofpockethealthspending$5.5povertyline_hefpi",
+ "indicator":"changeinpovertygapduetooutofpockethealthspending$3.2povertyline_hefpi",
  "countryData":[
   {
    "Alpha-3 code":"DZA",
@@ -18,7 +18,7 @@
     },
     {
      "year":2012,
-     "value":0.05
+     "value":0.0
     }
    ]
   },
@@ -35,15 +35,15 @@
    "data":[
     {
      "year":1998,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2000,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2006,
-     "value":0.02
+     "value":0.0
     }
    ]
   },
@@ -53,7 +53,7 @@
    "data":[
     {
      "year":2009,
-     "value":0.06
+     "value":0.02
     }
    ]
   },
@@ -84,11 +84,11 @@
    "data":[
     {
      "year":1986,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":1998,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2013,
@@ -102,7 +102,7 @@
    "data":[
     {
      "year":2014,
-     "value":0.04
+     "value":0.01
     }
    ]
   },
@@ -116,7 +116,7 @@
     },
     {
      "year":2002,
-     "value":0.02
+     "value":0.0
     }
    ]
   },
@@ -137,7 +137,7 @@
     },
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2011,
@@ -145,7 +145,7 @@
     },
     {
      "year":2015,
-     "value":0.03
+     "value":0.02
     }
    ]
   },
@@ -162,15 +162,15 @@
    "data":[
     {
      "year":1997,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2005,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2015,
-     "value":0.04
+     "value":0.02
     }
    ]
   },
@@ -198,15 +198,15 @@
    "data":[
     {
      "year":2004,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2010,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2016,
-     "value":0.03
+     "value":0.01
     }
    ]
   },
@@ -241,7 +241,7 @@
     },
     {
      "year":2008,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2014,
@@ -262,7 +262,7 @@
    "data":[
     {
      "year":2005,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2013,
@@ -280,7 +280,7 @@
    "data":[
     {
      "year":2013,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -297,7 +297,7 @@
    "data":[
     {
      "year":2009,
-     "value":0.04
+     "value":0.02
     }
    ]
   },
@@ -307,19 +307,19 @@
    "data":[
     {
      "year":2002,
-     "value":0.07
+     "value":0.04
     },
     {
      "year":2009,
-     "value":0.09
+     "value":0.04
     },
     {
      "year":2012,
-     "value":0.07
+     "value":0.02
     },
     {
      "year":2016,
-     "value":0.07
+     "value":0.03
     }
    ]
   },
@@ -333,11 +333,11 @@
     },
     {
      "year":2007,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2011,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -371,7 +371,7 @@
    "data":[
     {
      "year":2008,
-     "value":0.05
+     "value":0.01
     }
    ]
   },
@@ -381,19 +381,19 @@
    "data":[
     {
      "year":1996,
-     "value":0.08
+     "value":0.04
     },
     {
      "year":2001,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2007,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2014,
-     "value":0.04
+     "value":0.01
     }
    ]
   },
@@ -403,7 +403,7 @@
    "data":[
     {
      "year":2008,
-     "value":0.03
+     "value":0.02
     }
    ]
   },
@@ -413,7 +413,7 @@
    "data":[
     {
      "year":2003,
-     "value":0.04
+     "value":0.02
     }
    ]
   },
@@ -423,11 +423,11 @@
    "data":[
     {
      "year":2005,
-     "value":0.06
+     "value":0.02
     },
     {
      "year":2011,
-     "value":0.03
+     "value":0.01
     }
    ]
   },
@@ -437,11 +437,11 @@
    "data":[
     {
      "year":2004,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2012,
-     "value":0.03
+     "value":0.02
     }
    ]
   },
@@ -458,7 +458,7 @@
    "data":[
     {
      "year":2005,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -468,7 +468,7 @@
    "data":[
     {
      "year":2000,
-     "value":0.03
+     "value":0.01
     }
    ]
   },
@@ -488,7 +488,7 @@
    "data":[
     {
      "year":2009,
-     "value":0.04
+     "value":0.02
     }
    ]
   },
@@ -498,11 +498,11 @@
    "data":[
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -512,7 +512,7 @@
    "data":[
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -522,19 +522,19 @@
    "data":[
     {
      "year":1995,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2000,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2005,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -544,11 +544,11 @@
    "data":[
     {
      "year":2003,
-     "value":0.06
+     "value":0.03
     },
     {
      "year":2011,
-     "value":0.07
+     "value":0.06
     }
    ]
   },
@@ -558,15 +558,15 @@
    "data":[
     {
      "year":2003,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":2009,
-     "value":0.03
+     "value":0.02
     },
     {
      "year":2014,
-     "value":0.04
+     "value":0.02
     }
    ]
   },
@@ -576,7 +576,7 @@
    "data":[
     {
      "year":2007,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -586,35 +586,35 @@
    "data":[
     {
      "year":1985,
-     "value":0.03
+     "value":0.0
     },
     {
      "year":1986,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":1987,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":1988,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":1998,
-     "value":0.1
+     "value":0.03
     },
     {
      "year":2002,
-     "value":0.07
+     "value":0.03
     },
     {
      "year":2008,
-     "value":0.06
+     "value":0.02
     },
     {
      "year":2015,
-     "value":0.04
+     "value":0.01
     }
    ]
   },
@@ -624,11 +624,11 @@
    "data":[
     {
      "year":2003,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2015,
@@ -642,11 +642,11 @@
    "data":[
     {
      "year":1991,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":1998,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":2005,
@@ -654,7 +654,7 @@
     },
     {
      "year":2012,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -664,15 +664,15 @@
    "data":[
     {
      "year":2002,
-     "value":0.06
+     "value":0.04
     },
     {
      "year":2007,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":2012,
-     "value":0.04
+     "value":0.02
     }
    ]
   },
@@ -682,7 +682,7 @@
    "data":[
     {
      "year":2002,
-     "value":0.04
+     "value":0.02
     }
    ]
   },
@@ -699,19 +699,19 @@
    "data":[
     {
      "year":1994,
-     "value":0.03
+     "value":0.02
     },
     {
      "year":2000,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":2009,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":2011,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":2013,
@@ -719,15 +719,15 @@
     },
     {
      "year":2014,
-     "value":0.05
+     "value":0.03
     },
     {
      "year":2015,
-     "value":0.05
+     "value":0.03
     },
     {
      "year":2016,
-     "value":0.05
+     "value":0.02
     }
    ]
   },
@@ -737,11 +737,11 @@
    "data":[
     {
      "year":2004,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2014,
-     "value":0.03
+     "value":0.01
     }
    ]
   },
@@ -751,15 +751,15 @@
    "data":[
     {
      "year":2005,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2007,
-     "value":0.03
+     "value":0.02
     },
     {
      "year":2011,
-     "value":0.05
+     "value":0.02
     }
    ]
   },
@@ -769,15 +769,15 @@
    "data":[
     {
      "year":2003,
-     "value":0.06
+     "value":0.02
     },
     {
      "year":2010,
-     "value":0.07
+     "value":0.02
     },
     {
      "year":2012,
-     "value":0.08
+     "value":0.03
     }
    ]
   },
@@ -794,15 +794,15 @@
    "data":[
     {
      "year":2001,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2005,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2011,
-     "value":0.03
+     "value":0.01
     }
    ]
   },
@@ -812,7 +812,7 @@
    "data":[
     {
      "year":2003,
-     "value":0.06
+     "value":0.03
     }
    ]
   },
@@ -822,7 +822,7 @@
    "data":[
     {
      "year":2006,
-     "value":0.05
+     "value":0.03
     }
    ]
   },
@@ -863,7 +863,7 @@
    "data":[
     {
      "year":2016,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -915,7 +915,7 @@
    "data":[
     {
      "year":2007,
-     "value":0.03
+     "value":0.01
     }
    ]
   },
@@ -939,11 +939,11 @@
    "data":[
     {
      "year":2012,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2013,
-     "value":0.08
+     "value":0.03
     }
    ]
   },
@@ -953,47 +953,47 @@
    "data":[
     {
      "year":1990,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":1991,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":1992,
-     "value":0.05
+     "value":0.03
     },
     {
      "year":1993,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":1994,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":1995,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":1996,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":1997,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -1066,11 +1066,11 @@
    "data":[
     {
      "year":2005,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2014,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -1125,11 +1125,11 @@
    "data":[
     {
      "year":2000,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2011,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2014,
@@ -1153,51 +1153,51 @@
    "data":[
     {
      "year":1984,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":1989,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":1992,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":1994,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":1996,
-     "value":0.06
+     "value":0.03
     },
     {
      "year":1998,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2000,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2002,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2004,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2008,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2010,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2012,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -1207,23 +1207,23 @@
    "data":[
     {
      "year":1993,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":1998,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2001,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2009,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2014,
-     "value":0.09
+     "value":0.04
     }
    ]
   },
@@ -1233,11 +1233,11 @@
    "data":[
     {
      "year":1997,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2003,
-     "value":0.03
+     "value":0.01
     }
    ]
   },
@@ -1247,11 +1247,11 @@
    "data":[
     {
      "year":1996,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -1261,15 +1261,15 @@
    "data":[
     {
      "year":1999,
-     "value":0.07
+     "value":0.04
     },
     {
      "year":2000,
-     "value":0.06
+     "value":0.03
     },
     {
      "year":2012,
-     "value":0.05
+     "value":0.04
     }
    ]
   },
@@ -1286,7 +1286,7 @@
    "data":[
     {
      "year":2008,
-     "value":0.03
+     "value":0.01
     }
    ]
   },
@@ -1296,7 +1296,7 @@
    "data":[
     {
      "year":2016,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -1306,11 +1306,11 @@
    "data":[
     {
      "year":2008,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -1320,11 +1320,11 @@
    "data":[
     {
      "year":1998,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2013,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -1348,7 +1348,7 @@
    "data":[
     {
      "year":1993,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -1358,19 +1358,19 @@
    "data":[
     {
      "year":2000,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":2010,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2013,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":2014,
-     "value":0.03
+     "value":0.01
     }
    ]
   },
@@ -1380,35 +1380,35 @@
    "data":[
     {
      "year":2006,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2007,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2008,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2011,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2012,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2013,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2014,
@@ -1531,7 +1531,7 @@
     },
     {
      "year":2018,
-     "value":0.08
+     "value":0.07
     }
    ]
   },
@@ -1548,19 +1548,19 @@
    "data":[
     {
      "year":2001,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2005,
@@ -1614,31 +1614,31 @@
    "data":[
     {
      "year":2005,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2006,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2007,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2008,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2011,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2012,
@@ -1646,19 +1646,19 @@
     },
     {
      "year":2013,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2014,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2015,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2016,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -1668,19 +1668,19 @@
    "data":[
     {
      "year":1999,
-     "value":0.07
+     "value":0.02
     },
     {
      "year":2003,
-     "value":0.08
+     "value":0.02
     },
     {
      "year":2007,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2009,
-     "value":0.05
+     "value":0.01
     }
    ]
   },
@@ -1697,15 +1697,15 @@
    "data":[
     {
      "year":2000,
-     "value":0.04
+     "value":0.02
     },
     {
      "year":2002,
-     "value":0.03
+     "value":0.02
     },
     {
      "year":2003,
-     "value":0.03
+     "value":0.02
     }
    ]
   },
@@ -1715,19 +1715,19 @@
    "data":[
     {
      "year":1995,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2002,
-     "value":0.06
+     "value":0.03
     },
     {
      "year":2007,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2013,
-     "value":0.04
+     "value":0.01
     }
    ]
   },
@@ -1774,7 +1774,7 @@
     },
     {
      "year":2013,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2014,
@@ -1792,7 +1792,7 @@
    "data":[
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2007,
@@ -1826,11 +1826,11 @@
     },
     {
      "year":2010,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2012,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -1847,7 +1847,7 @@
    "data":[
     {
      "year":2009,
-     "value":0.09
+     "value":0.03
     }
    ]
   },
@@ -1857,59 +1857,59 @@
    "data":[
     {
      "year":2001,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2002,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2003,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2004,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2005,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2006,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2007,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2009,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2011,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2012,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2013,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2014,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2015,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -1919,11 +1919,11 @@
    "data":[
     {
      "year":2002,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2007,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -1943,7 +1943,7 @@
    "data":[
     {
      "year":2015,
-     "value":0.06
+     "value":0.02
     }
    ]
   },
@@ -1953,23 +1953,23 @@
    "data":[
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2006,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2012,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2015,
-     "value":0.02
+     "value":0.0
     }
    ]
   },
@@ -2004,7 +2004,7 @@
    "data":[
     {
      "year":2001,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2007,
@@ -2022,43 +2022,43 @@
    "data":[
     {
      "year":1992,
-     "value":0.1
-    },
-    {
-     "year":1997,
-     "value":0.08
-    },
-    {
-     "year":2002,
-     "value":0.07
-    },
-    {
-     "year":2004,
-     "value":0.07
-    },
-    {
-     "year":2006,
      "value":0.06
     },
     {
+     "year":1997,
+     "value":0.03
+    },
+    {
+     "year":2002,
+     "value":0.03
+    },
+    {
+     "year":2004,
+     "value":0.02
+    },
+    {
+     "year":2006,
+     "value":0.02
+    },
+    {
      "year":2008,
-     "value":0.05
+     "value":0.01
     },
     {
      "year":2010,
-     "value":0.03
+     "value":0.0
     },
     {
      "year":2012,
-     "value":0.03
+     "value":0.0
     },
     {
      "year":2014,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2016,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -2068,11 +2068,11 @@
    "data":[
     {
      "year":2007,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2013,
-     "value":0.09
+     "value":0.04
     }
    ]
   },
@@ -2082,23 +2082,23 @@
    "data":[
     {
      "year":1995,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2000,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2005,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2010,
-     "value":0.05
+     "value":0.01
     },
     {
      "year":2016,
-     "value":0.06
+     "value":0.01
     }
    ]
   },
@@ -2108,11 +2108,11 @@
    "data":[
     {
      "year":2003,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2007,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2012,
@@ -2126,35 +2126,35 @@
    "data":[
     {
      "year":1995,
-     "value":0.07
+     "value":0.03
     },
     {
      "year":2000,
-     "value":0.07
+     "value":0.03
     },
     {
      "year":2001,
-     "value":0.08
+     "value":0.04
     },
     {
      "year":2003,
-     "value":0.08
+     "value":0.03
     },
     {
      "year":2006,
-     "value":0.09
+     "value":0.03
     },
     {
      "year":2007,
-     "value":0.07
+     "value":0.02
     },
     {
      "year":2009,
-     "value":0.07
+     "value":0.02
     },
     {
      "year":2011,
-     "value":0.08
+     "value":0.02
     }
    ]
   },
@@ -2164,7 +2164,7 @@
    "data":[
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -2174,11 +2174,11 @@
    "data":[
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2009,
-     "value":0.02
+     "value":0.0
     }
    ]
   },
@@ -2188,11 +2188,11 @@
    "data":[
     {
      "year":2003,
-     "value":0.06
+     "value":0.02
     },
     {
      "year":2010,
-     "value":0.07
+     "value":0.01
     }
    ]
   },
@@ -2202,35 +2202,35 @@
    "data":[
     {
      "year":1991,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2001,
-     "value":0.06
+     "value":0.02
     },
     {
      "year":2004,
-     "value":0.05
+     "value":0.01
     },
     {
      "year":2007,
-     "value":0.04
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.03
+     "value":0.0
     },
     {
      "year":2011,
-     "value":0.04
+     "value":0.0
     },
     {
      "year":2013,
-     "value":0.04
+     "value":0.0
     },
     {
      "year":2015,
-     "value":0.03
+     "value":0.0
     }
    ]
   },
@@ -2240,11 +2240,11 @@
    "data":[
     {
      "year":2006,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2016,
@@ -2258,35 +2258,35 @@
    "data":[
     {
      "year":1999,
-     "value":0.06
+     "value":0.01
     },
     {
      "year":2001,
-     "value":0.07
+     "value":0.01
     },
     {
      "year":2002,
-     "value":0.05
+     "value":0.01
     },
     {
      "year":2003,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2004,
-     "value":0.03
+     "value":0.0
     },
     {
      "year":2005,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2006,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2007,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2008,
@@ -2294,23 +2294,23 @@
     },
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2011,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2012,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2013,
-     "value":0.02
+     "value":0.0
     }
    ]
   },
@@ -2359,71 +2359,71 @@
    "data":[
     {
      "year":1997,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":1998,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":1999,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2000,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2001,
-     "value":0.06
+     "value":0.02
     },
     {
      "year":2002,
-     "value":0.06
+     "value":0.02
     },
     {
      "year":2003,
-     "value":0.05
+     "value":0.02
     },
     {
      "year":2004,
-     "value":0.05
+     "value":0.01
     },
     {
      "year":2005,
-     "value":0.06
+     "value":0.02
     },
     {
      "year":2006,
-     "value":0.07
+     "value":0.02
     },
     {
      "year":2007,
-     "value":0.07
+     "value":0.02
     },
     {
      "year":2008,
-     "value":0.08
+     "value":0.02
     },
     {
      "year":2009,
-     "value":0.09
+     "value":0.03
     },
     {
      "year":2010,
-     "value":0.09
+     "value":0.03
     },
     {
      "year":2011,
-     "value":0.09
+     "value":0.03
     },
     {
      "year":2012,
-     "value":0.09
+     "value":0.03
     },
     {
      "year":2013,
-     "value":0.08
+     "value":0.02
     }
    ]
   },
@@ -2437,7 +2437,7 @@
     },
     {
      "year":2012,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -2447,11 +2447,11 @@
    "data":[
     {
      "year":1997,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2001,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2005,
@@ -2463,19 +2463,19 @@
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2012,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2014,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2016,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -2546,7 +2546,7 @@
     },
     {
      "year":2007,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2009,
@@ -2568,11 +2568,11 @@
    "data":[
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2007,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -2582,11 +2582,11 @@
    "data":[
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
@@ -2655,11 +2655,11 @@
    "data":[
     {
      "year":2005,
-     "value":0.08
+     "value":0.03
     },
     {
      "year":2014,
-     "value":0.08
+     "value":0.03
     }
    ]
   },
@@ -2685,11 +2685,11 @@
     },
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
@@ -2927,55 +2927,55 @@
    "data":[
     {
      "year":1999,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2000,
-     "value":0.04
+     "value":0.01
     },
     {
      "year":2001,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2002,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2003,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2004,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2005,
-     "value":0.03
+     "value":0.01
     },
     {
      "year":2006,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2007,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2008,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2011,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2012,
@@ -3005,39 +3005,39 @@
    "data":[
     {
      "year":1998,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":1999,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2000,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2001,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2005,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2006,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2007,
@@ -3175,15 +3175,15 @@
    "data":[
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2005,
@@ -3268,7 +3268,7 @@
     },
     {
      "year":2000,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2001,
@@ -3280,7 +3280,7 @@
     },
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
@@ -3322,7 +3322,7 @@
    "data":[
     {
      "year":1999,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2009,
@@ -3351,15 +3351,15 @@
     },
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2007,
@@ -3371,7 +3371,7 @@
     },
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
@@ -3477,23 +3477,23 @@
    "data":[
     {
      "year":1996,
-     "value":0.02
+     "value":0.01
     },
     {
      "year":2002,
-     "value":0.04
+     "value":0.0
     },
     {
      "year":2005,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2008,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2012,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -3600,7 +3600,7 @@
    "data":[
     {
      "year":2010,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -3660,7 +3660,7 @@
    "data":[
     {
      "year":1996,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":1997,
@@ -3668,35 +3668,35 @@
     },
     {
      "year":1998,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":1999,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2000,
-     "value":0.02
+     "value":0.0
     },
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2005,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2006,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2008,
@@ -3789,7 +3789,7 @@
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2012,
@@ -3807,7 +3807,7 @@
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -3889,7 +3889,7 @@
     },
     {
      "year":2000,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2002,
@@ -3897,7 +3897,7 @@
     },
     {
      "year":2004,
-     "value":0.02
+     "value":0.01
     }
    ]
   },
@@ -3907,7 +3907,7 @@
    "data":[
     {
      "year":2004,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
@@ -3956,7 +3956,7 @@
    "data":[
     {
      "year":2002,
-     "value":0.01
+     "value":0.0
     }
    ]
   },
@@ -4120,27 +4120,27 @@
    "data":[
     {
      "year":2003,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2005,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2006,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2009,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2010,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2011,
-     "value":0.01
+     "value":0.0
     },
     {
      "year":2016,

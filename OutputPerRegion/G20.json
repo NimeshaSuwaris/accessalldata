@@ -72,6 +72,24 @@
    ]
   },
   {
+   "indicator":"childrenorhouseholdsreceivingchildorfamilycashbenefits_ilospf",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":34.5
+    }
+   ]
+  },
+  {
+   "indicator":"employedcoveredintheeventofworkinjury_ilospf",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":38.1
+    }
+   ]
+  },
+  {
    "indicator":"householdairpolutionfromsolidfuels_hapsfuel",
    "yearlyData":[
     {
@@ -193,6 +211,122 @@
     {
      "year":2019,
      "value":0.29
+    }
+   ]
+  },
+  {
+   "indicator":"income_per_gdp_2021_estimate_ilosdg",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":56.6
+    },
+    {
+     "year":2010,
+     "value":55.4
+    },
+    {
+     "year":2011,
+     "value":54.8
+    },
+    {
+     "year":2012,
+     "value":54.8
+    },
+    {
+     "year":2013,
+     "value":54.6
+    },
+    {
+     "year":2014,
+     "value":54.7
+    },
+    {
+     "year":2015,
+     "value":54.7
+    },
+    {
+     "year":2016,
+     "value":54.8
+    },
+    {
+     "year":2017,
+     "value":54.7
+    },
+    {
+     "year":2018,
+     "value":54.6
+    },
+    {
+     "year":2019,
+     "value":54.8
+    },
+    {
+     "year":2020,
+     "value":55.5
+    }
+   ]
+  },
+  {
+   "indicator":"motherswithnewbornsreceivingmaternitybenefits_ilospf",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":57.5
+    }
+   ]
+  },
+  {
+   "indicator":"personsaboveretirementagereceivingapension_ilospf",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":86.3
+    }
+   ]
+  },
+  {
+   "indicator":"personswithseveredisabilitiescollectingdisabilitysocialprotectionbenefits_ilospf",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":38.6
+    }
+   ]
+  },
+  {
+   "indicator":"populationcoveredbyatleastonesocialprotectionbenefit_ilospf",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":57.8
+    }
+   ]
+  },
+  {
+   "indicator":"receivingapensiontotal_sdgrap",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":86.3
+    }
+   ]
+  },
+  {
+   "indicator":"unemployedreceivingunemploymentbenefits_ilospf",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":21.8
+    }
+   ]
+  },
+  {
+   "indicator":"vulnerablepersonscoveredbysocialassistance_ilospf",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":35.8
     }
    ]
   }

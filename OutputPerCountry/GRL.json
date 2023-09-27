@@ -435,6 +435,40 @@
    ]
   },
   {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-26.67
+    },
+    {
+     "year":2040,
+     "value":-73.76
+    },
+    {
+     "year":2090,
+     "value":-149.4
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-26.13
+    },
+    {
+     "year":2040,
+     "value":-93.35
+    },
+    {
+     "year":2090,
+     "value":-278.28
+    }
+   ]
+  },
+  {
    "indicator":"coalelectricity_owided",
    "yearlyData":[
     {

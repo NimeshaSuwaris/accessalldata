@@ -80,19 +80,19 @@
     },
     {
      "year":2017,
-     "value":109381554.799999997
+     "value":109381554.849999994
     },
     {
      "year":2018,
-     "value":113957699.400000006
+     "value":113957699.4200000018
     },
     {
      "year":2019,
-     "value":112271708.0
+     "value":112271708.0100000054
     },
     {
      "year":2020,
-     "value":111117391.299999997
+     "value":111117391.3199999928
     },
     {
      "year":2021,
@@ -100,7 +100,7 @@
     },
     {
      "year":2022,
-     "value":124690721.200000003
+     "value":124690721.2199999988
     }
    ]
   },
@@ -1960,6 +1960,40 @@
     {
      "year":2021,
      "value":0.89
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-1.97
+    },
+    {
+     "year":2040,
+     "value":0.41
+    },
+    {
+     "year":2090,
+     "value":6.1
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-0.83
+    },
+    {
+     "year":2040,
+     "value":3.02
+    },
+    {
+     "year":2090,
+     "value":16.16
     }
    ]
   },
@@ -4512,6 +4546,40 @@
     {
      "year":2021,
      "value":9.39
+    }
+   ]
+  },
+  {
+   "indicator":"digital_payment_female_percent_age_15_plus",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.37
+    },
+    {
+     "year":2017,
+     "value":0.56
+    },
+    {
+     "year":2021,
+     "value":0.69
+    }
+   ]
+  },
+  {
+   "indicator":"digital_payment_male_percent_age_15_plus",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.45
+    },
+    {
+     "year":2017,
+     "value":0.63
+    },
+    {
+     "year":2021,
+     "value":0.67
     }
    ]
   },
@@ -20863,15 +20931,15 @@
    "yearlyData":[
     {
      "year":2018,
-     "value":93.0
+     "value":80.0
     },
     {
      "year":2019,
-     "value":93.0
+     "value":73.0
     },
     {
      "year":2020,
-     "value":87.0
+     "value":73.0
     }
    ]
   },
@@ -21697,19 +21765,19 @@
     },
     {
      "year":2017,
-     "value":109381554.799999997
+     "value":109381554.849999994
     },
     {
      "year":2018,
-     "value":113957699.400000006
+     "value":113957699.4200000018
     },
     {
      "year":2019,
-     "value":112271708.0
+     "value":112271708.0100000054
     },
     {
      "year":2020,
-     "value":111117391.299999997
+     "value":111117391.3199999928
     },
     {
      "year":2021,
@@ -21717,7 +21785,7 @@
     },
     {
      "year":2022,
-     "value":124690721.200000003
+     "value":124690721.2199999988
     }
    ]
   },

@@ -1,22 +1,11 @@
 {
- "indicator":"condomdistributionperpersoninprevensionprogrammes_menss",
+ "indicator":"chemicalevents_chemevents",
  "countryData":[
   {
    "Alpha-3 code":"DZA",
    "Country or Area":"Algeria",
    "data":[
-    {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":80.0
-    }
+
    ]
   },
   {
@@ -24,16 +13,12 @@
    "Country or Area":"Egypt",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":2008,
+     "value":0.06
     },
     {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2012,
+     "value":0.22
     }
    ]
   },
@@ -41,18 +26,7 @@
    "Alpha-3 code":"LBY",
    "Country or Area":"Libya",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -60,16 +34,16 @@
    "Country or Area":"Morocco",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1998,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2000,
+     "value":0.07
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2006,
+     "value":0.07
     }
    ]
   },
@@ -78,16 +52,8 @@
    "Country or Area":"Sudan",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2009,
+     "value":0.16
     }
    ]
   },
@@ -95,18 +61,7 @@
    "Alpha-3 code":"TUN",
    "Country or Area":"Tunisia",
    "data":[
-    {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
-    }
+
    ]
   },
   {
@@ -128,16 +83,16 @@
    "Country or Area":"Burundi",
    "data":[
     {
-     "year":2018,
-     "value":0.0
+     "year":1986,
+     "value":0.04
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":1998,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2013,
+     "value":0.03
     }
    ]
   },
@@ -146,16 +101,8 @@
    "Country or Area":"Comoros",
    "data":[
     {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2014,
+     "value":0.08
     }
    ]
   },
@@ -164,16 +111,12 @@
    "Country or Area":"Djibouti",
    "data":[
     {
-     "year":2018,
-     "value":0.0
+     "year":1996,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2002,
+     "value":0.03
     }
    ]
   },
@@ -181,18 +124,7 @@
    "Alpha-3 code":"ERI",
    "Country or Area":"Eritrea",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -200,16 +132,20 @@
    "Country or Area":"Ethiopia",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":1999,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2004,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2011,
+     "value":0.02
+    },
+    {
+     "year":2015,
+     "value":0.03
     }
    ]
   },
@@ -225,16 +161,16 @@
    "Country or Area":"Kenya",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1997,
+     "value":0.07
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2005,
+     "value":0.06
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2015,
+     "value":0.06
     }
    ]
   },
@@ -243,16 +179,16 @@
    "Country or Area":"Madagascar",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2001,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":2005,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":20.0
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -261,16 +197,16 @@
    "Country or Area":"Malawi",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2004,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":0.0
+     "year":2010,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":20.0
+     "year":2016,
+     "value":0.04
     }
    ]
   },
@@ -279,16 +215,12 @@
    "Country or Area":"Mauritius",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":2006,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2012,
+     "value":0.01
     }
    ]
   },
@@ -304,16 +236,16 @@
    "Country or Area":"Mozambique",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2002,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2008,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2014,
+     "value":0.02
     }
    ]
   },
@@ -329,16 +261,16 @@
    "Country or Area":"Rwanda",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2005,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2013,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2016,
+     "value":0.02
     }
    ]
   },
@@ -347,16 +279,8 @@
    "Country or Area":"Seychelles",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2013,
+     "value":0.06
     }
    ]
   },
@@ -364,10 +288,7 @@
    "Alpha-3 code":"SOM",
    "Country or Area":"Somalia",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -375,16 +296,8 @@
    "Country or Area":"South Sudan",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2009,
+     "value":0.07
     }
    ]
   },
@@ -393,16 +306,20 @@
    "Country or Area":"Uganda",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":2002,
+     "value":0.08
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2009,
+     "value":0.13
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2012,
+     "value":0.12
+    },
+    {
+     "year":2016,
+     "value":0.11
     }
    ]
   },
@@ -411,16 +328,16 @@
    "Country or Area":"United Republic of Tanzania",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2000,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2007,
+     "value":0.03
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2011,
+     "value":0.04
     }
    ]
   },
@@ -429,16 +346,12 @@
    "Country or Area":"Zambia",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2006,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -447,16 +360,8 @@
    "Country or Area":"Zimbabwe",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2007,
+     "value":0.0
     }
    ]
   },
@@ -465,16 +370,8 @@
    "Country or Area":"Angola",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2008,
+     "value":0.1
     }
    ]
   },
@@ -483,16 +380,20 @@
    "Country or Area":"Cameroon",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":1996,
+     "value":0.13
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":2001,
+     "value":0.09
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2007,
+     "value":0.08
+    },
+    {
+     "year":2014,
+     "value":0.09
     }
    ]
   },
@@ -501,16 +402,8 @@
    "Country or Area":"Central African Republic",
    "data":[
     {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2008,
+     "value":0.04
     }
    ]
   },
@@ -519,16 +412,8 @@
    "Country or Area":"Chad",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2003,
+     "value":0.05
     }
    ]
   },
@@ -537,16 +422,12 @@
    "Country or Area":"Congo",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2005,
+     "value":0.11
     },
     {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2011,
+     "value":0.06
     }
    ]
   },
@@ -555,16 +436,12 @@
    "Country or Area":"Democratic Republic of the Congo",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2004,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2012,
+     "value":0.03
     }
    ]
   },
@@ -572,18 +449,7 @@
    "Alpha-3 code":"GNQ",
    "Country or Area":"Equatorial Guinea",
    "data":[
-    {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -591,16 +457,8 @@
    "Country or Area":"Gabon",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2005,
+     "value":0.04
     }
    ]
   },
@@ -609,16 +467,8 @@
    "Country or Area":"Sao Tome and Principe",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2000,
+     "value":0.07
     }
    ]
   },
@@ -627,16 +477,8 @@
    "Country or Area":"Botswana",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2009,
+     "value":0.02
     }
    ]
   },
@@ -645,16 +487,8 @@
    "Country or Area":"Eswatini",
    "data":[
     {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2009,
+     "value":0.07
     }
    ]
   },
@@ -663,16 +497,12 @@
    "Country or Area":"Lesotho",
    "data":[
     {
-     "year":2018,
-     "value":0.0
+     "year":2002,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":0.0
+     "year":2010,
+     "value":0.02
     }
    ]
   },
@@ -681,16 +511,8 @@
    "Country or Area":"Namibia",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2009,
+     "value":0.02
     }
    ]
   },
@@ -699,16 +521,20 @@
    "Country or Area":"South Africa",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1995,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2000,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2005,
+     "value":0.03
+    },
+    {
+     "year":2010,
+     "value":0.02
     }
    ]
   },
@@ -717,16 +543,12 @@
    "Country or Area":"Benin",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2003,
+     "value":0.09
     },
     {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2011,
+     "value":0.08
     }
    ]
   },
@@ -735,16 +557,16 @@
    "Country or Area":"Burkina Faso",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2003,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":2009,
+     "value":0.04
     },
     {
-     "year":2020,
-     "value":20.0
+     "year":2014,
+     "value":0.05
     }
    ]
   },
@@ -753,16 +575,8 @@
    "Country or Area":"Cabo Verde",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2007,
+     "value":0.02
     }
    ]
   },
@@ -771,16 +585,36 @@
    "Country or Area":"C\u00f4te d\u2019Ivoire",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":1985,
+     "value":0.1
     },
     {
-     "year":2019,
-     "value":100.0
+     "year":1986,
+     "value":0.1
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":1987,
+     "value":0.09
+    },
+    {
+     "year":1988,
+     "value":0.09
+    },
+    {
+     "year":1998,
+     "value":0.16
+    },
+    {
+     "year":2002,
+     "value":0.15
+    },
+    {
+     "year":2008,
+     "value":0.12
+    },
+    {
+     "year":2015,
+     "value":0.07
     }
    ]
   },
@@ -789,16 +623,16 @@
    "Country or Area":"Gambia",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2003,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":2010,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":0.0
+     "year":2015,
+     "value":0.01
     }
    ]
   },
@@ -807,16 +641,20 @@
    "Country or Area":"Ghana",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1991,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":1998,
+     "value":0.07
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2005,
+     "value":0.03
+    },
+    {
+     "year":2012,
+     "value":0.02
     }
    ]
   },
@@ -825,16 +663,16 @@
    "Country or Area":"Guinea",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2002,
+     "value":0.07
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":2007,
+     "value":0.05
     },
     {
-     "year":2020,
-     "value":20.0
+     "year":2012,
+     "value":0.07
     }
    ]
   },
@@ -843,16 +681,8 @@
    "Country or Area":"Guinea-Bissau",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2002,
+     "value":0.06
     }
    ]
   },
@@ -860,18 +690,7 @@
    "Alpha-3 code":"LBR",
    "Country or Area":"Liberia",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":40.0
-    }
+
    ]
   },
   {
@@ -879,16 +698,36 @@
    "Country or Area":"Mali",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":1994,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":2000,
+     "value":0.06
     },
     {
-     "year":2020,
-     "value":20.0
+     "year":2009,
+     "value":0.05
+    },
+    {
+     "year":2011,
+     "value":0.06
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.06
+    },
+    {
+     "year":2015,
+     "value":0.06
+    },
+    {
+     "year":2016,
+     "value":0.06
     }
    ]
   },
@@ -897,16 +736,12 @@
    "Country or Area":"Mauritania",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2004,
+     "value":0.06
     },
     {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2014,
+     "value":0.1
     }
    ]
   },
@@ -915,16 +750,16 @@
    "Country or Area":"Niger",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2005,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2007,
+     "value":0.04
     },
     {
-     "year":2020,
-     "value":0.0
+     "year":2011,
+     "value":0.07
     }
    ]
   },
@@ -933,16 +768,16 @@
    "Country or Area":"Nigeria",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2003,
+     "value":0.1
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":2010,
+     "value":0.13
     },
     {
-     "year":2020,
-     "value":20.0
+     "year":2012,
+     "value":0.13
     }
    ]
   },
@@ -958,16 +793,16 @@
    "Country or Area":"Senegal",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2001,
+     "value":0.04
     },
     {
-     "year":2019,
-     "value":60.0
+     "year":2005,
+     "value":0.05
     },
     {
-     "year":2020,
-     "value":60.0
+     "year":2011,
+     "value":0.05
     }
    ]
   },
@@ -976,16 +811,8 @@
    "Country or Area":"Sierra Leone",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2003,
+     "value":0.08
     }
    ]
   },
@@ -994,16 +821,8 @@
    "Country or Area":"Togo",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":0.0
+     "year":2006,
+     "value":0.07
     }
    ]
   },
@@ -1018,10 +837,7 @@
    "Alpha-3 code":"ATG",
    "Country or Area":"Antigua and Barbuda",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -1036,16 +852,8 @@
    "Country or Area":"Bahamas",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2013,
+     "value":0.0
     }
    ]
   },
@@ -1054,8 +862,8 @@
    "Country or Area":"Barbados",
    "data":[
     {
-     "year":2020,
-     "value":40.0
+     "year":2016,
+     "value":0.04
     }
    ]
   },
@@ -1084,14 +892,7 @@
    "Alpha-3 code":"CUB",
    "Country or Area":"Cuba",
    "data":[
-    {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":60.0
-    }
+
    ]
   },
   {
@@ -1105,14 +906,7 @@
    "Alpha-3 code":"DMA",
    "Country or Area":"Dominica",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -1120,16 +914,8 @@
    "Country or Area":"Dominican Republic",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2007,
+     "value":0.09
     }
    ]
   },
@@ -1152,12 +938,12 @@
    "Country or Area":"Haiti",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2012,
+     "value":0.08
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2013,
+     "value":0.14
     }
    ]
   },
@@ -1166,16 +952,48 @@
    "Country or Area":"Jamaica",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1990,
+     "value":0.06
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":1991,
+     "value":0.08
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":1992,
+     "value":0.11
+    },
+    {
+     "year":1993,
+     "value":0.11
+    },
+    {
+     "year":1994,
+     "value":0.05
+    },
+    {
+     "year":1995,
+     "value":0.05
+    },
+    {
+     "year":1996,
+     "value":0.04
+    },
+    {
+     "year":1997,
+     "value":0.04
+    },
+    {
+     "year":2002,
+     "value":0.06
+    },
+    {
+     "year":2003,
+     "value":0.06
+    },
+    {
+     "year":2004,
+     "value":0.06
     }
    ]
   },
@@ -1211,36 +1029,14 @@
    "Alpha-3 code":"KNA",
    "Country or Area":"Saint Kitts and Nevis",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"LCA",
    "Country or Area":"Saint Lucia",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
-    }
+
    ]
   },
   {
@@ -1254,14 +1050,7 @@
    "Alpha-3 code":"VCT",
    "Country or Area":"Saint Vincent and the Grenadines",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -1276,12 +1065,12 @@
    "Country or Area":"Trinidad and Tobago",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":2005,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":60.0
+     "year":2014,
+     "value":0.04
     }
    ]
   },
@@ -1303,14 +1092,7 @@
    "Alpha-3 code":"BLZ",
    "Country or Area":"Belize",
    "data":[
-    {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -1318,16 +1100,12 @@
    "Country or Area":"Costa Rica",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":2004,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2012,
+     "value":0.02
     }
    ]
   },
@@ -1336,16 +1114,8 @@
    "Country or Area":"El Salvador",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":100.0
+     "year":2014,
+     "value":0.01
     }
    ]
   },
@@ -1354,16 +1124,16 @@
    "Country or Area":"Guatemala",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":2000,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2011,
+     "value":0.04
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2014,
+     "value":0.02
     }
    ]
   },
@@ -1372,16 +1142,8 @@
    "Country or Area":"Honduras",
    "data":[
     {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2004,
+     "value":0.01
     }
    ]
   },
@@ -1390,16 +1152,52 @@
    "Country or Area":"Mexico",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1984,
+     "value":0.1
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":1989,
+     "value":0.09
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":1992,
+     "value":0.09
+    },
+    {
+     "year":1994,
+     "value":0.1
+    },
+    {
+     "year":1996,
+     "value":0.11
+    },
+    {
+     "year":1998,
+     "value":0.1
+    },
+    {
+     "year":2000,
+     "value":0.11
+    },
+    {
+     "year":2002,
+     "value":0.1
+    },
+    {
+     "year":2004,
+     "value":0.11
+    },
+    {
+     "year":2008,
+     "value":0.04
+    },
+    {
+     "year":2010,
+     "value":0.04
+    },
+    {
+     "year":2012,
+     "value":0.03
     }
    ]
   },
@@ -1408,16 +1206,24 @@
    "Country or Area":"Nicaragua",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":1993,
+     "value":0.07
     },
     {
-     "year":2019,
-     "value":60.0
+     "year":1998,
+     "value":0.09
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2001,
+     "value":0.12
+    },
+    {
+     "year":2009,
+     "value":0.11
+    },
+    {
+     "year":2014,
+     "value":0.21
     }
    ]
   },
@@ -1426,16 +1232,12 @@
    "Country or Area":"Panama",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1997,
+     "value":0.08
     },
     {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2003,
+     "value":0.08
     }
    ]
   },
@@ -1444,16 +1246,12 @@
    "Country or Area":"Argentina",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":1996,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
+     "year":2004,
+     "value":0.03
     }
    ]
   },
@@ -1462,8 +1260,16 @@
    "Country or Area":"Bolivia (Plurinational State of)",
    "data":[
     {
-     "year":2020,
-     "value":80.0
+     "year":1999,
+     "value":0.15
+    },
+    {
+     "year":2000,
+     "value":0.12
+    },
+    {
+     "year":2012,
+     "value":0.05
     }
    ]
   },
@@ -1479,16 +1285,8 @@
    "Country or Area":"Brazil",
    "data":[
     {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
+     "year":2008,
+     "value":0.09
     }
    ]
   },
@@ -1497,16 +1295,8 @@
    "Country or Area":"Chile",
    "data":[
     {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2016,
+     "value":0.05
     }
    ]
   },
@@ -1515,16 +1305,12 @@
    "Country or Area":"Colombia",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":2008,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
+     "year":2010,
+     "value":0.05
     }
    ]
   },
@@ -1533,16 +1319,12 @@
    "Country or Area":"Ecuador",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1998,
+     "value":0.07
     },
     {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2013,
+     "value":0.07
     }
    ]
   },
@@ -1565,12 +1347,8 @@
    "Country or Area":"Guyana",
    "data":[
     {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
+     "year":1993,
+     "value":0.04
     }
    ]
   },
@@ -1579,16 +1357,20 @@
    "Country or Area":"Paraguay",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":2000,
+     "value":0.07
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2010,
+     "value":0.1
     },
     {
-     "year":2020,
-     "value":60.0
+     "year":2013,
+     "value":0.07
+    },
+    {
+     "year":2014,
+     "value":0.07
     }
    ]
   },
@@ -1597,16 +1379,44 @@
    "Country or Area":"Peru",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":2006,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2007,
+     "value":0.05
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2008,
+     "value":0.05
+    },
+    {
+     "year":2009,
+     "value":0.05
+    },
+    {
+     "year":2010,
+     "value":0.04
+    },
+    {
+     "year":2011,
+     "value":0.04
+    },
+    {
+     "year":2012,
+     "value":0.04
+    },
+    {
+     "year":2013,
+     "value":0.03
+    },
+    {
+     "year":2014,
+     "value":0.03
+    },
+    {
+     "year":2015,
+     "value":0.03
     }
    ]
   },
@@ -1622,16 +1432,8 @@
    "Country or Area":"Suriname",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2016,
+     "value":0.01
     }
    ]
   },
@@ -1640,16 +1442,8 @@
    "Country or Area":"Uruguay",
    "data":[
     {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
+     "year":2005,
+     "value":0.01
     }
    ]
   },
@@ -1657,18 +1451,7 @@
    "Alpha-3 code":"VEN",
    "Country or Area":"Venezuela (Bolivarian Republic of)",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
-    }
+
    ]
   },
   {
@@ -1683,16 +1466,24 @@
    "Country or Area":"Canada",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":1994,
+     "value":0.0
     },
     {
-     "year":2019,
-     "value":100.0
+     "year":2000,
+     "value":0.0
     },
     {
-     "year":2020,
-     "value":100.0
+     "year":2004,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -1715,16 +1506,32 @@
    "Country or Area":"United States of America",
    "data":[
     {
+     "year":2012,
+     "value":0.02
+    },
+    {
+     "year":2013,
+     "value":0.02
+    },
+    {
+     "year":2014,
+     "value":0.02
+    },
+    {
+     "year":2015,
+     "value":0.02
+    },
+    {
+     "year":2016,
+     "value":0.02
+    },
+    {
+     "year":2017,
+     "value":0.02
+    },
+    {
      "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "value":0.09
     }
    ]
   },
@@ -1740,16 +1547,64 @@
    "Country or Area":"Kazakhstan",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":2001,
+     "value":0.04
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2002,
+     "value":0.04
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2003,
+     "value":0.04
+    },
+    {
+     "year":2004,
+     "value":0.04
+    },
+    {
+     "year":2005,
+     "value":0.01
+    },
+    {
+     "year":2006,
+     "value":0.03
+    },
+    {
+     "year":2007,
+     "value":0.02
+    },
+    {
+     "year":2008,
+     "value":0.02
+    },
+    {
+     "year":2009,
+     "value":0.02
+    },
+    {
+     "year":2010,
+     "value":0.02
+    },
+    {
+     "year":2011,
+     "value":0.01
+    },
+    {
+     "year":2012,
+     "value":0.01
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.01
     }
    ]
   },
@@ -1758,16 +1613,52 @@
    "Country or Area":"Kyrgyzstan",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2005,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2006,
+     "value":0.04
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2007,
+     "value":0.03
+    },
+    {
+     "year":2008,
+     "value":0.03
+    },
+    {
+     "year":2009,
+     "value":0.04
+    },
+    {
+     "year":2010,
+     "value":0.04
+    },
+    {
+     "year":2011,
+     "value":0.03
+    },
+    {
+     "year":2012,
+     "value":0.02
+    },
+    {
+     "year":2013,
+     "value":0.03
+    },
+    {
+     "year":2014,
+     "value":0.03
+    },
+    {
+     "year":2015,
+     "value":0.05
+    },
+    {
+     "year":2016,
+     "value":0.04
     }
    ]
   },
@@ -1776,12 +1667,20 @@
    "Country or Area":"Tajikistan",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1999,
+     "value":0.11
     },
     {
-     "year":2019,
-     "value":60.0
+     "year":2003,
+     "value":0.14
+    },
+    {
+     "year":2007,
+     "value":0.1
+    },
+    {
+     "year":2009,
+     "value":0.16
     }
    ]
   },
@@ -1789,18 +1688,7 @@
    "Alpha-3 code":"TKM",
    "Country or Area":"Turkmenistan",
    "data":[
-    {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
-    }
+
    ]
   },
   {
@@ -1808,16 +1696,16 @@
    "Country or Area":"Uzbekistan",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2000,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2002,
+     "value":0.04
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2003,
+     "value":0.05
     }
    ]
   },
@@ -1826,16 +1714,20 @@
    "Country or Area":"China",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":1995,
+     "value":0.06
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2002,
+     "value":0.13
     },
     {
-     "year":2020,
-     "value":100.0
+     "year":2007,
+     "value":0.12
+    },
+    {
+     "year":2013,
+     "value":0.14
     }
    ]
   },
@@ -1857,18 +1749,7 @@
    "Alpha-3 code":"PRK",
    "Country or Area":"Democratic People's Republic of Korea",
    "data":[
-    {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
-    }
+
    ]
   },
   {
@@ -1876,12 +1757,32 @@
    "Country or Area":"Japan",
    "data":[
     {
-     "year":2019,
-     "value":100.0
+     "year":2009,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":100.0
+     "year":2010,
+     "value":0.01
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.01
+    },
+    {
+     "year":2013,
+     "value":0.01
+    },
+    {
+     "year":2014,
+     "value":0.01
+    },
+    {
+     "year":2015,
+     "value":0.01
     }
    ]
   },
@@ -1890,16 +1791,24 @@
    "Country or Area":"Mongolia",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":2002,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2007,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2010,
+     "value":0.02
+    },
+    {
+     "year":2011,
+     "value":0.02
+    },
+    {
+     "year":2012,
+     "value":0.01
     }
    ]
   },
@@ -1908,16 +1817,20 @@
    "Country or Area":"Republic of Korea",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":2006,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":100.0
+     "year":2008,
+     "value":0.03
     },
     {
-     "year":2020,
-     "value":100.0
+     "year":2010,
+     "value":0.04
+    },
+    {
+     "year":2012,
+     "value":0.03
     }
    ]
   },
@@ -1933,16 +1846,8 @@
    "Country or Area":"Cambodia",
    "data":[
     {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2009,
+     "value":0.23
     }
    ]
   },
@@ -1951,16 +1856,60 @@
    "Country or Area":"Indonesia",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2001,
+     "value":0.04
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2002,
+     "value":0.04
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2003,
+     "value":0.04
+    },
+    {
+     "year":2004,
+     "value":0.04
+    },
+    {
+     "year":2005,
+     "value":0.04
+    },
+    {
+     "year":2006,
+     "value":0.04
+    },
+    {
+     "year":2007,
+     "value":0.05
+    },
+    {
+     "year":2009,
+     "value":0.05
+    },
+    {
+     "year":2010,
+     "value":0.05
+    },
+    {
+     "year":2011,
+     "value":0.04
+    },
+    {
+     "year":2012,
+     "value":0.04
+    },
+    {
+     "year":2013,
+     "value":0.04
+    },
+    {
+     "year":2014,
+     "value":0.04
+    },
+    {
+     "year":2015,
+     "value":0.04
     }
    ]
   },
@@ -1969,16 +1918,12 @@
    "Country or Area":"Lao People's Democratic Republic",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2002,
+     "value":0.04
     },
     {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2007,
+     "value":0.04
     }
    ]
   },
@@ -1987,16 +1932,8 @@
    "Country or Area":"Malaysia",
    "data":[
     {
-     "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2004,
+     "value":0.01
     }
    ]
   },
@@ -2005,16 +1942,8 @@
    "Country or Area":"Myanmar",
    "data":[
     {
-     "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2015,
+     "value":0.14
     }
    ]
   },
@@ -2023,12 +1952,24 @@
    "Country or Area":"Philippines",
    "data":[
     {
-     "year":2019,
-     "value":60.0
+     "year":2003,
+     "value":0.03
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2006,
+     "value":0.04
+    },
+    {
+     "year":2009,
+     "value":0.04
+    },
+    {
+     "year":2012,
+     "value":0.05
+    },
+    {
+     "year":2015,
+     "value":0.05
     }
    ]
   },
@@ -2036,18 +1977,7 @@
    "Alpha-3 code":"SGP",
    "Country or Area":"Singapore",
    "data":[
-    {
-     "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
-    }
+
    ]
   },
   {
@@ -2055,16 +1985,16 @@
    "Country or Area":"Thailand",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":2002,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2006,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2009,
+     "value":0.0
     }
    ]
   },
@@ -2073,16 +2003,16 @@
    "Country or Area":"Timor-Leste",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2001,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":2007,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":20.0
+     "year":2011,
+     "value":0.0
     }
    ]
   },
@@ -2091,16 +2021,44 @@
    "Country or Area":"Viet Nam",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":1992,
+     "value":0.12
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":1997,
+     "value":0.12
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2002,
+     "value":0.11
+    },
+    {
+     "year":2004,
+     "value":0.14
+    },
+    {
+     "year":2006,
+     "value":0.13
+    },
+    {
+     "year":2008,
+     "value":0.14
+    },
+    {
+     "year":2010,
+     "value":0.11
+    },
+    {
+     "year":2012,
+     "value":0.09
+    },
+    {
+     "year":2014,
+     "value":0.07
+    },
+    {
+     "year":2016,
+     "value":0.05
     }
    ]
   },
@@ -2109,16 +2067,12 @@
    "Country or Area":"Afghanistan",
    "data":[
     {
-     "year":2018,
-     "value":0.0
+     "year":2007,
+     "value":0.09
     },
     {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2013,
+     "value":0.13
     }
    ]
   },
@@ -2127,16 +2081,24 @@
    "Country or Area":"Bangladesh",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1995,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":60.0
+     "year":2000,
+     "value":0.06
     },
     {
-     "year":2020,
-     "value":60.0
+     "year":2005,
+     "value":0.08
+    },
+    {
+     "year":2010,
+     "value":0.09
+    },
+    {
+     "year":2016,
+     "value":0.11
     }
    ]
   },
@@ -2145,16 +2107,16 @@
    "Country or Area":"Bhutan",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2003,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":2007,
+     "value":0.04
     },
     {
-     "year":2020,
-     "value":20.0
+     "year":2012,
+     "value":0.02
     }
    ]
   },
@@ -2163,16 +2125,36 @@
    "Country or Area":"India",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1995,
+     "value":0.09
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2000,
+     "value":0.1
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2001,
+     "value":0.1
+    },
+    {
+     "year":2003,
+     "value":0.13
+    },
+    {
+     "year":2006,
+     "value":0.14
+    },
+    {
+     "year":2007,
+     "value":0.12
+    },
+    {
+     "year":2009,
+     "value":0.12
+    },
+    {
+     "year":2011,
+     "value":0.15
     }
    ]
   },
@@ -2181,12 +2163,8 @@
    "Country or Area":"Iran (Islamic Republic of)",
    "data":[
     {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
+     "year":2009,
+     "value":0.03
     }
    ]
   },
@@ -2195,16 +2173,12 @@
    "Country or Area":"Maldives",
    "data":[
     {
-     "year":2018,
-     "value":0.0
+     "year":2004,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":0.0
+     "year":2009,
+     "value":0.11
     }
    ]
   },
@@ -2213,16 +2187,12 @@
    "Country or Area":"Nepal",
    "data":[
     {
-     "year":2018,
-     "value":0.0
+     "year":2003,
+     "value":0.09
     },
     {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2010,
+     "value":0.19
     }
    ]
   },
@@ -2231,16 +2201,36 @@
    "Country or Area":"Pakistan",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1991,
+     "value":0.08
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2001,
+     "value":0.09
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2004,
+     "value":0.09
+    },
+    {
+     "year":2007,
+     "value":0.09
+    },
+    {
+     "year":2010,
+     "value":0.08
+    },
+    {
+     "year":2011,
+     "value":0.09
+    },
+    {
+     "year":2013,
+     "value":0.1
+    },
+    {
+     "year":2015,
+     "value":0.08
     }
    ]
   },
@@ -2249,16 +2239,16 @@
    "Country or Area":"Sri Lanka",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2006,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2009,
+     "value":0.05
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2016,
+     "value":0.03
     }
    ]
   },
@@ -2267,16 +2257,60 @@
    "Country or Area":"Armenia",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1999,
+     "value":0.17
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2001,
+     "value":0.15
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2002,
+     "value":0.14
+    },
+    {
+     "year":2003,
+     "value":0.13
+    },
+    {
+     "year":2004,
+     "value":0.11
+    },
+    {
+     "year":2005,
+     "value":0.07
+    },
+    {
+     "year":2006,
+     "value":0.09
+    },
+    {
+     "year":2007,
+     "value":0.04
+    },
+    {
+     "year":2008,
+     "value":0.03
+    },
+    {
+     "year":2009,
+     "value":0.04
+    },
+    {
+     "year":2010,
+     "value":0.05
+    },
+    {
+     "year":2011,
+     "value":0.1
+    },
+    {
+     "year":2012,
+     "value":0.1
+    },
+    {
+     "year":2013,
+     "value":0.11
     }
    ]
   },
@@ -2285,16 +2319,20 @@
    "Country or Area":"Azerbaijan",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":2002,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":100.0
+     "year":2003,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":100.0
+     "year":2004,
+     "value":0.02
+    },
+    {
+     "year":2005,
+     "value":0.02
     }
    ]
   },
@@ -2302,14 +2340,7 @@
    "Alpha-3 code":"BHR",
    "Country or Area":"Bahrain",
    "data":[
-    {
-     "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    }
+
    ]
   },
   {
@@ -2317,16 +2348,8 @@
    "Country or Area":"Cyprus",
    "data":[
     {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -2335,16 +2358,72 @@
    "Country or Area":"Georgia",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":1997,
+     "value":0.07
     },
     {
-     "year":2019,
-     "value":20.0
+     "year":1998,
+     "value":0.07
     },
     {
-     "year":2020,
-     "value":20.0
+     "year":1999,
+     "value":0.08
+    },
+    {
+     "year":2000,
+     "value":0.11
+    },
+    {
+     "year":2001,
+     "value":0.12
+    },
+    {
+     "year":2002,
+     "value":0.13
+    },
+    {
+     "year":2003,
+     "value":0.12
+    },
+    {
+     "year":2004,
+     "value":0.12
+    },
+    {
+     "year":2005,
+     "value":0.14
+    },
+    {
+     "year":2006,
+     "value":0.17
+    },
+    {
+     "year":2007,
+     "value":0.16
+    },
+    {
+     "year":2008,
+     "value":0.19
+    },
+    {
+     "year":2009,
+     "value":0.23
+    },
+    {
+     "year":2010,
+     "value":0.22
+    },
+    {
+     "year":2011,
+     "value":0.21
+    },
+    {
+     "year":2012,
+     "value":0.21
+    },
+    {
+     "year":2013,
+     "value":0.21
     }
    ]
   },
@@ -2353,16 +2432,12 @@
    "Country or Area":"Iraq",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2006,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":40.0
+     "year":2012,
+     "value":0.05
     }
    ]
   },
@@ -2371,12 +2446,36 @@
    "Country or Area":"Israel",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":1997,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":100.0
+     "year":2001,
+     "value":0.02
+    },
+    {
+     "year":2005,
+     "value":0.03
+    },
+    {
+     "year":2007,
+     "value":0.03
+    },
+    {
+     "year":2010,
+     "value":0.02
+    },
+    {
+     "year":2012,
+     "value":0.02
+    },
+    {
+     "year":2014,
+     "value":0.02
+    },
+    {
+     "year":2016,
+     "value":0.02
     }
    ]
   },
@@ -2385,16 +2484,12 @@
    "Country or Area":"Jordan",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2002,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2008,
+     "value":0.0
     }
    ]
   },
@@ -2402,97 +2497,69 @@
    "Alpha-3 code":"KWT",
    "Country or Area":"Kuwait",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":60.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"LBN",
    "Country or Area":"Lebanon",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"OMN",
    "Country or Area":"Oman",
    "data":[
-    {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":80.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"QAT",
    "Country or Area":"Qatar",
    "data":[
-    {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"SAU",
    "Country or Area":"Saudi Arabia",
    "data":[
-    {
-     "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"PSE",
    "Country or Area":"State of Palestine",
    "data":[
-
+    {
+     "year":2004,
+     "value":0.04
+    },
+    {
+     "year":2005,
+     "value":0.03
+    },
+    {
+     "year":2006,
+     "value":0.04
+    },
+    {
+     "year":2007,
+     "value":0.05
+    },
+    {
+     "year":2009,
+     "value":0.04
+    },
+    {
+     "year":2010,
+     "value":0.03
+    },
+    {
+     "year":2016,
+     "value":0.03
+    }
    ]
   },
   {
@@ -2500,16 +2567,12 @@
    "Country or Area":"Syrian Arab Republic",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":2003,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
+     "year":2007,
+     "value":0.05
     }
    ]
   },
@@ -2518,16 +2581,64 @@
    "Country or Area":"T\u00fcrkiye",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":2002,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2003,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2004,
+     "value":0.02
+    },
+    {
+     "year":2005,
+     "value":0.02
+    },
+    {
+     "year":2006,
+     "value":0.02
+    },
+    {
+     "year":2007,
+     "value":0.02
+    },
+    {
+     "year":2008,
+     "value":0.01
+    },
+    {
+     "year":2009,
+     "value":0.01
+    },
+    {
+     "year":2010,
+     "value":0.01
+    },
+    {
+     "year":2011,
+     "value":0.01
+    },
+    {
+     "year":2012,
+     "value":0.01
+    },
+    {
+     "year":2013,
+     "value":0.01
+    },
+    {
+     "year":2014,
+     "value":0.01
+    },
+    {
+     "year":2015,
+     "value":0.01
+    },
+    {
+     "year":2016,
+     "value":0.01
     }
    ]
   },
@@ -2535,18 +2646,7 @@
    "Alpha-3 code":"ARE",
    "Country or Area":"United Arab Emirates",
    "data":[
-    {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
-    }
+
    ]
   },
   {
@@ -2554,16 +2654,12 @@
    "Country or Area":"Yemen",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2005,
+     "value":0.18
     },
     {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2014,
+     "value":0.17
     }
    ]
   },
@@ -2572,12 +2668,80 @@
    "Country or Area":"Belarus",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":1998,
+     "value":0.03
     },
     {
-     "year":2020,
-     "value":100.0
+     "year":1999,
+     "value":0.02
+    },
+    {
+     "year":2000,
+     "value":0.02
+    },
+    {
+     "year":2001,
+     "value":0.02
+    },
+    {
+     "year":2002,
+     "value":0.05
+    },
+    {
+     "year":2003,
+     "value":0.04
+    },
+    {
+     "year":2004,
+     "value":0.03
+    },
+    {
+     "year":2005,
+     "value":0.02
+    },
+    {
+     "year":2006,
+     "value":0.01
+    },
+    {
+     "year":2007,
+     "value":0.01
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
     }
    ]
   },
@@ -2586,16 +2750,24 @@
    "Country or Area":"Bulgaria",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1995,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":1997,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2001,
+     "value":0.03
+    },
+    {
+     "year":2007,
+     "value":0.03
+    },
+    {
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -2604,12 +2776,8 @@
    "Country or Area":"Czechia",
    "data":[
     {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":80.0
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -2618,16 +2786,60 @@
    "Country or Area":"Hungary",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":1998,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":60.0
+     "year":1999,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2000,
+     "value":0.01
+    },
+    {
+     "year":2001,
+     "value":0.0
+    },
+    {
+     "year":2002,
+     "value":0.0
+    },
+    {
+     "year":2003,
+     "value":0.01
+    },
+    {
+     "year":2004,
+     "value":0.0
+    },
+    {
+     "year":2005,
+     "value":0.01
+    },
+    {
+     "year":2006,
+     "value":0.01
+    },
+    {
+     "year":2007,
+     "value":0.01
+    },
+    {
+     "year":2009,
+     "value":0.01
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.01
+    },
+    {
+     "year":2015,
+     "value":0.0
     }
    ]
   },
@@ -2636,12 +2848,76 @@
    "Country or Area":"Poland",
    "data":[
     {
-     "year":2019,
-     "value":80.0
+     "year":1998,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":60.0
+     "year":1999,
+     "value":0.02
+    },
+    {
+     "year":2000,
+     "value":0.02
+    },
+    {
+     "year":2001,
+     "value":0.02
+    },
+    {
+     "year":2002,
+     "value":0.02
+    },
+    {
+     "year":2003,
+     "value":0.02
+    },
+    {
+     "year":2004,
+     "value":0.02
+    },
+    {
+     "year":2005,
+     "value":0.02
+    },
+    {
+     "year":2006,
+     "value":0.01
+    },
+    {
+     "year":2007,
+     "value":0.01
+    },
+    {
+     "year":2008,
+     "value":0.01
+    },
+    {
+     "year":2009,
+     "value":0.01
+    },
+    {
+     "year":2011,
+     "value":0.01
+    },
+    {
+     "year":2012,
+     "value":0.01
+    },
+    {
+     "year":2013,
+     "value":0.01
+    },
+    {
+     "year":2014,
+     "value":0.01
+    },
+    {
+     "year":2015,
+     "value":0.01
+    },
+    {
+     "year":2016,
+     "value":0.0
     }
    ]
   },
@@ -2650,16 +2926,76 @@
    "Country or Area":"Republic of Moldova",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1999,
+     "value":0.07
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2000,
+     "value":0.06
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2001,
+     "value":0.08
+    },
+    {
+     "year":2002,
+     "value":0.09
+    },
+    {
+     "year":2003,
+     "value":0.09
+    },
+    {
+     "year":2004,
+     "value":0.08
+    },
+    {
+     "year":2005,
+     "value":0.09
+    },
+    {
+     "year":2006,
+     "value":0.09
+    },
+    {
+     "year":2007,
+     "value":0.07
+    },
+    {
+     "year":2008,
+     "value":0.07
+    },
+    {
+     "year":2009,
+     "value":0.07
+    },
+    {
+     "year":2010,
+     "value":0.08
+    },
+    {
+     "year":2011,
+     "value":0.06
+    },
+    {
+     "year":2012,
+     "value":0.06
+    },
+    {
+     "year":2013,
+     "value":0.05
+    },
+    {
+     "year":2014,
+     "value":0.05
+    },
+    {
+     "year":2015,
+     "value":0.05
+    },
+    {
+     "year":2016,
+     "value":0.06
     }
    ]
   },
@@ -2668,16 +3004,72 @@
    "Country or Area":"Romania",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1998,
+     "value":0.05
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":1999,
+     "value":0.06
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2000,
+     "value":0.06
+    },
+    {
+     "year":2001,
+     "value":0.05
+    },
+    {
+     "year":2002,
+     "value":0.05
+    },
+    {
+     "year":2003,
+     "value":0.05
+    },
+    {
+     "year":2004,
+     "value":0.05
+    },
+    {
+     "year":2005,
+     "value":0.05
+    },
+    {
+     "year":2006,
+     "value":0.05
+    },
+    {
+     "year":2007,
+     "value":0.04
+    },
+    {
+     "year":2008,
+     "value":0.03
+    },
+    {
+     "year":2009,
+     "value":0.02
+    },
+    {
+     "year":2010,
+     "value":0.03
+    },
+    {
+     "year":2011,
+     "value":0.03
+    },
+    {
+     "year":2012,
+     "value":0.03
+    },
+    {
+     "year":2013,
+     "value":0.03
+    },
+    {
+     "year":2016,
+     "value":0.03
     }
    ]
   },
@@ -2686,16 +3078,60 @@
    "Country or Area":"Russian Federation",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":1993,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":100.0
+     "year":1997,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":100.0
+     "year":1998,
+     "value":0.01
+    },
+    {
+     "year":1999,
+     "value":0.02
+    },
+    {
+     "year":2000,
+     "value":0.02
+    },
+    {
+     "year":2001,
+     "value":0.01
+    },
+    {
+     "year":2002,
+     "value":0.01
+    },
+    {
+     "year":2003,
+     "value":0.01
+    },
+    {
+     "year":2004,
+     "value":0.01
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
     }
    ]
   },
@@ -2704,16 +3140,32 @@
    "Country or Area":"Slovakia",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":2004,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":60.0
+     "year":2005,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":60.0
+     "year":2006,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":0.0
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -2722,16 +3174,56 @@
    "Country or Area":"Ukraine",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":2002,
+     "value":0.09
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2003,
+     "value":0.06
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2004,
+     "value":0.05
+    },
+    {
+     "year":2005,
+     "value":0.03
+    },
+    {
+     "year":2006,
+     "value":0.02
+    },
+    {
+     "year":2007,
+     "value":0.02
+    },
+    {
+     "year":2008,
+     "value":0.01
+    },
+    {
+     "year":2009,
+     "value":0.01
+    },
+    {
+     "year":2010,
+     "value":0.01
+    },
+    {
+     "year":2011,
+     "value":0.01
+    },
+    {
+     "year":2012,
+     "value":0.01
+    },
+    {
+     "year":2013,
+     "value":0.01
+    },
+    {
+     "year":2014,
+     "value":0.01
     }
    ]
   },
@@ -2761,16 +3253,8 @@
    "Country or Area":"Denmark",
    "data":[
     {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -2779,16 +3263,32 @@
    "Country or Area":"Estonia",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1995,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2000,
+     "value":0.03
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2001,
+     "value":0.02
+    },
+    {
+     "year":2002,
+     "value":0.03
+    },
+    {
+     "year":2003,
+     "value":0.04
+    },
+    {
+     "year":2004,
+     "value":0.03
+    },
+    {
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -2804,16 +3304,8 @@
    "Country or Area":"Finland",
    "data":[
     {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":60.0
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -2821,14 +3313,7 @@
    "Alpha-3 code":"ISL",
    "Country or Area":"Iceland",
    "data":[
-    {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":60.0
-    }
+
    ]
   },
   {
@@ -2836,16 +3321,16 @@
    "Country or Area":"Ireland",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":1999,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":60.0
+     "year":2009,
+     "value":0.0
     },
     {
-     "year":2020,
-     "value":60.0
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -2861,16 +3346,36 @@
    "Country or Area":"Latvia",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":2000,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":60.0
+     "year":2002,
+     "value":0.05
     },
     {
-     "year":2020,
-     "value":60.0
+     "year":2003,
+     "value":0.05
+    },
+    {
+     "year":2004,
+     "value":0.05
+    },
+    {
+     "year":2007,
+     "value":0.03
+    },
+    {
+     "year":2008,
+     "value":0.02
+    },
+    {
+     "year":2009,
+     "value":0.04
+    },
+    {
+     "year":2010,
+     "value":0.04
     }
    ]
   },
@@ -2879,16 +3384,40 @@
    "Country or Area":"Lithuania",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1998,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":1999,
+     "value":0.02
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2000,
+     "value":0.03
+    },
+    {
+     "year":2001,
+     "value":0.04
+    },
+    {
+     "year":2002,
+     "value":0.04
+    },
+    {
+     "year":2003,
+     "value":0.02
+    },
+    {
+     "year":2004,
+     "value":0.02
+    },
+    {
+     "year":2008,
+     "value":0.01
+    },
+    {
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -2896,18 +3425,7 @@
    "Alpha-3 code":"NOR",
    "Country or Area":"Norway",
    "data":[
-    {
-     "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
-    }
+
    ]
   },
   {
@@ -2922,16 +3440,8 @@
    "Country or Area":"Sweden",
    "data":[
     {
-     "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -2940,16 +3450,24 @@
    "Country or Area":"United Kingdom of Great Britain and Northern Ireland",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1995,
+     "value":0.0
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2000,
+     "value":0.0
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.0
     }
    ]
   },
@@ -2958,12 +3476,24 @@
    "Country or Area":"Albania",
    "data":[
     {
-     "year":2019,
-     "value":20.0
+     "year":1996,
+     "value":0.08
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2002,
+     "value":0.18
+    },
+    {
+     "year":2005,
+     "value":0.13
+    },
+    {
+     "year":2008,
+     "value":0.08
+    },
+    {
+     "year":2012,
+     "value":0.09
     }
    ]
   },
@@ -2971,18 +3501,7 @@
    "Alpha-3 code":"AND",
    "Country or Area":"Andorra",
    "data":[
-    {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":0.0
-    }
+
    ]
   },
   {
@@ -2990,12 +3509,24 @@
    "Country or Area":"Bosnia and Herzegovina",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2001,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2004,
+     "value":0.01
+    },
+    {
+     "year":2007,
+     "value":0.01
+    },
+    {
+     "year":2011,
+     "value":0.01
+    },
+    {
+     "year":2015,
+     "value":0.0
     }
    ]
   },
@@ -3004,16 +3535,24 @@
    "Country or Area":"Croatia",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":1998,
+     "value":0.0
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2004,
+     "value":0.0
     },
     {
-     "year":2020,
-     "value":80.0
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -3029,12 +3568,8 @@
    "Country or Area":"Greece",
    "data":[
     {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -3050,16 +3585,12 @@
    "Country or Area":"Italy",
    "data":[
     {
-     "year":2018,
-     "value":60.0
+     "year":2008,
+     "value":0.0
     },
     {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -3068,16 +3599,8 @@
    "Country or Area":"Malta",
    "data":[
     {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
+     "year":2010,
+     "value":0.04
     }
    ]
   },
@@ -3086,16 +3609,48 @@
    "Country or Area":"Montenegro",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2005,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":2006,
+     "value":0.01
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":2007,
+     "value":0.01
+    },
+    {
+     "year":2008,
+     "value":0.01
+    },
+    {
+     "year":2009,
+     "value":0.01
+    },
+    {
+     "year":2010,
+     "value":0.01
+    },
+    {
+     "year":2011,
+     "value":0.01
+    },
+    {
+     "year":2012,
+     "value":0.01
+    },
+    {
+     "year":2013,
+     "value":0.02
+    },
+    {
+     "year":2014,
+     "value":0.01
+    },
+    {
+     "year":2015,
+     "value":0.01
     }
    ]
   },
@@ -3104,16 +3659,48 @@
    "Country or Area":"North Macedonia",
    "data":[
     {
-     "year":2018,
-     "value":40.0
+     "year":1996,
+     "value":0.03
     },
     {
-     "year":2019,
-     "value":40.0
+     "year":1997,
+     "value":0.03
     },
     {
-     "year":2020,
-     "value":40.0
+     "year":1998,
+     "value":0.03
+    },
+    {
+     "year":1999,
+     "value":0.03
+    },
+    {
+     "year":2000,
+     "value":0.05
+    },
+    {
+     "year":2002,
+     "value":0.04
+    },
+    {
+     "year":2003,
+     "value":0.03
+    },
+    {
+     "year":2004,
+     "value":0.04
+    },
+    {
+     "year":2005,
+     "value":0.03
+    },
+    {
+     "year":2006,
+     "value":0.03
+    },
+    {
+     "year":2008,
+     "value":0.02
     }
    ]
   },
@@ -3122,16 +3709,8 @@
    "Country or Area":"Portugal",
    "data":[
     {
-     "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -3139,10 +3718,7 @@
    "Alpha-3 code":"SMR",
    "Country or Area":"San Marino",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -3150,16 +3726,44 @@
    "Country or Area":"Serbia",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":2003,
+     "value":0.02
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":2004,
+     "value":0.03
     },
     {
-     "year":2020,
-     "value":100.0
+     "year":2005,
+     "value":0.04
+    },
+    {
+     "year":2006,
+     "value":0.02
+    },
+    {
+     "year":2007,
+     "value":0.02
+    },
+    {
+     "year":2008,
+     "value":0.02
+    },
+    {
+     "year":2009,
+     "value":0.02
+    },
+    {
+     "year":2010,
+     "value":0.02
+    },
+    {
+     "year":2013,
+     "value":0.02
+    },
+    {
+     "year":2015,
+     "value":0.01
     }
    ]
   },
@@ -3168,12 +3772,28 @@
    "Country or Area":"Slovenia",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1997,
+     "value":0.0
     },
     {
-     "year":2019,
-     "value":80.0
+     "year":1999,
+     "value":0.0
+    },
+    {
+     "year":2004,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.01
+    },
+    {
+     "year":2012,
+     "value":0.0
     }
    ]
   },
@@ -3182,16 +3802,12 @@
    "Country or Area":"Spain",
    "data":[
     {
-     "year":2018,
-     "value":80.0
+     "year":1985,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":100.0
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -3199,18 +3815,7 @@
    "Alpha-3 code":"AUT",
    "Country or Area":"Austria",
    "data":[
-    {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
-    }
+
    ]
   },
   {
@@ -3218,16 +3823,8 @@
    "Country or Area":"Belgium",
    "data":[
     {
-     "year":2018,
-     "value":60.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":60.0
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -3236,16 +3833,8 @@
    "Country or Area":"France",
    "data":[
     {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -3254,16 +3843,8 @@
    "Country or Area":"Germany",
    "data":[
     {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -3271,14 +3852,7 @@
    "Alpha-3 code":"LIE",
    "Country or Area":"Liechtenstein",
    "data":[
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
-    }
+
    ]
   },
   {
@@ -3286,16 +3860,8 @@
    "Country or Area":"Luxembourg",
    "data":[
     {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
+     "year":2010,
+     "value":0.0
     }
    ]
   },
@@ -3303,32 +3869,14 @@
    "Alpha-3 code":"MCO",
    "Country or Area":"Monaco",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":40.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"NLD",
    "Country or Area":"Netherlands",
    "data":[
-    {
-     "year":2018,
-     "value":80.0
-    },
-    {
-     "year":2019,
-     "value":80.0
-    },
-    {
-     "year":2020,
-     "value":80.0
-    }
+
    ]
   },
   {
@@ -3336,8 +3884,20 @@
    "Country or Area":"Switzerland",
    "data":[
     {
-     "year":2019,
-     "value":100.0
+     "year":1992,
+     "value":0.0
+    },
+    {
+     "year":2000,
+     "value":0.01
+    },
+    {
+     "year":2002,
+     "value":0.02
+    },
+    {
+     "year":2004,
+     "value":0.03
     }
    ]
   },
@@ -3346,16 +3906,12 @@
    "Country or Area":"Australia",
    "data":[
     {
-     "year":2018,
-     "value":100.0
+     "year":2004,
+     "value":0.01
     },
     {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
+     "year":2010,
+     "value":0.01
     }
    ]
   },
@@ -3384,18 +3940,7 @@
    "Alpha-3 code":"NZL",
    "Country or Area":"New Zealand",
    "data":[
-    {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
-    }
+
    ]
   },
   {
@@ -3410,8 +3955,8 @@
    "Country or Area":"Fiji",
    "data":[
     {
-     "year":2018,
-     "value":20.0
+     "year":2002,
+     "value":0.03
     }
    ]
   },
@@ -3426,42 +3971,21 @@
    "Alpha-3 code":"PNG",
    "Country or Area":"Papua New Guinea",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":0.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"SLB",
    "Country or Area":"Solomon Islands",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2020,
-     "value":40.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"VUT",
    "Country or Area":"Vanuatu",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":40.0
-    }
+
    ]
   },
   {
@@ -3475,52 +3999,28 @@
    "Alpha-3 code":"KIR",
    "Country or Area":"Kiribati",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":40.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"MHL",
    "Country or Area":"Marshall Islands",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":40.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"FSM",
    "Country or Area":"Micronesia (Federated States of)",
    "data":[
-    {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":20.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"NRU",
    "Country or Area":"Nauru",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    }
+
    ]
   },
   {
@@ -3534,18 +4034,7 @@
    "Alpha-3 code":"PLW",
    "Country or Area":"Palau",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":60.0
-    },
-    {
-     "year":2020,
-     "value":60.0
-    }
+
    ]
   },
   {
@@ -3566,18 +4055,7 @@
    "Alpha-3 code":"COK",
    "Country or Area":"Cook Islands",
    "data":[
-    {
-     "year":2018,
-     "value":20.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    },
-    {
-     "year":2020,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -3591,14 +4069,7 @@
    "Alpha-3 code":"NIU",
    "Country or Area":"Niue",
    "data":[
-    {
-     "year":2018,
-     "value":40.0
-    },
-    {
-     "year":2019,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -3612,10 +4083,7 @@
    "Alpha-3 code":"WSM",
    "Country or Area":"Samoa",
    "data":[
-    {
-     "year":2018,
-     "value":80.0
-    }
+
    ]
   },
   {
@@ -3629,28 +4097,14 @@
    "Alpha-3 code":"TON",
    "Country or Area":"Tonga",
    "data":[
-    {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":0.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"TUV",
    "Country or Area":"Tuvalu",
    "data":[
-    {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":20.0
-    }
+
    ]
   },
   {
@@ -3664,7 +4118,34 @@
    "Alpha-3 code":"XKX",
    "Country or Area":"Kosovo (as per UNSCR 1244)",
    "data":[
-
+    {
+     "year":2003,
+     "value":0.05
+    },
+    {
+     "year":2005,
+     "value":0.06
+    },
+    {
+     "year":2006,
+     "value":0.06
+    },
+    {
+     "year":2009,
+     "value":0.06
+    },
+    {
+     "year":2010,
+     "value":0.06
+    },
+    {
+     "year":2011,
+     "value":0.05
+    },
+    {
+     "year":2016,
+     "value":0.03
+    }
    ]
   }
  ]

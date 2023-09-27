@@ -1341,6 +1341,40 @@
    ]
   },
   {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":4.9
+    },
+    {
+     "year":2040,
+     "value":8.63
+    },
+    {
+     "year":2090,
+     "value":9.35
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":6.79
+    },
+    {
+     "year":2040,
+     "value":14.42
+    },
+    {
+     "year":2090,
+     "value":29.04
+    }
+   ]
+  },
+  {
    "indicator":"coalconsumption_owided",
    "yearlyData":[
     {
@@ -3437,6 +3471,24 @@
     {
      "year":2021,
      "value":15.17
+    }
+   ]
+  },
+  {
+   "indicator":"digital_payment_female_percent_age_15_plus",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":0.29
+    }
+   ]
+  },
+  {
+   "indicator":"digital_payment_male_percent_age_15_plus",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":0.4
     }
    ]
   },
@@ -12999,15 +13051,15 @@
    "yearlyData":[
     {
      "year":2018,
-     "value":73.0
+     "value":67.0
     },
     {
      "year":2019,
-     "value":73.0
+     "value":67.0
     },
     {
      "year":2020,
-     "value":73.0
+     "value":67.0
     }
    ]
   },

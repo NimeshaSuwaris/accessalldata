@@ -212,6 +212,40 @@
    ]
   },
   {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-8.71
+    },
+    {
+     "year":2040,
+     "value":-22.36
+    },
+    {
+     "year":2090,
+     "value":-42.53
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-9.16
+    },
+    {
+     "year":2040,
+     "value":-26.71
+    },
+    {
+     "year":2090,
+     "value":-74.73
+    }
+   ]
+  },
+  {
    "indicator":"coverageofprotectedareasinrelationtomarineareas_ermrmmpa",
    "yearlyData":[
     {

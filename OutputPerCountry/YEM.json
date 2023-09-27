@@ -1594,6 +1594,40 @@
    ]
   },
   {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-0.49
+    },
+    {
+     "year":2040,
+     "value":2.22
+    },
+    {
+     "year":2090,
+     "value":5.75
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-0.11
+    },
+    {
+     "year":2040,
+     "value":3.58
+    },
+    {
+     "year":2090,
+     "value":13.15
+    }
+   ]
+  },
+  {
    "indicator":"climate_risks_index_cw",
    "yearlyData":[
     {
@@ -3937,6 +3971,32 @@
     {
      "year":2021,
      "value":1.54
+    }
+   ]
+  },
+  {
+   "indicator":"digital_payment_female_percent_age_15_plus",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.02
+    },
+    {
+     "year":2022,
+     "value":0.05
+    }
+   ]
+  },
+  {
+   "indicator":"digital_payment_male_percent_age_15_plus",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.07
+    },
+    {
+     "year":2022,
+     "value":0.14
     }
    ]
   },
@@ -15831,15 +15891,15 @@
    "yearlyData":[
     {
      "year":2018,
-     "value":60.0
+     "value":47.0
     },
     {
      "year":2019,
-     "value":60.0
+     "value":47.0
     },
     {
      "year":2020,
-     "value":60.0
+     "value":47.0
     }
    ]
   },

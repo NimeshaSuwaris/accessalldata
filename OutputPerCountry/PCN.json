@@ -12,6 +12,40 @@
  "UNDP_Region":"",
  "indicators":[
   {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_45",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-2.43
+    },
+    {
+     "year":2040,
+     "value":-4.83
+    },
+    {
+     "year":2090,
+     "value":-3.63
+    }
+   ]
+  },
+  {
+   "indicator":"climate_change_related_change_in_death_rater_per_100000_population_85",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-2.36
+    },
+    {
+     "year":2040,
+     "value":-6.84
+    },
+    {
+     "year":2090,
+     "value":-9.75
+    }
+   ]
+  },
+  {
    "indicator":"coverageofprotectedareasinrelationtomarineareas_ermrmmpa",
    "yearlyData":[
     {
@@ -105,6 +139,61 @@
     {
      "year":2022,
      "value":57.17
+    }
+   ]
+  },
+  {
+   "indicator":"cumulativecases_whoglobal",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
+    },
+    {
+     "year":2022,
+     "value":4.0
+    },
+    {
+     "year":2023,
+     "value":4.0
+    }
+   ]
+  },
+  {
+   "indicator":"cumulativedeaths_whoglobal",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
+    },
+    {
+     "year":2022,
+     "value":0.0
+    },
+    {
+     "year":2023,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"testdeathrate_whoglobal",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":0.0
+    },
+    {
+     "year":2023,
+     "value":0.0
     }
    ]
   }

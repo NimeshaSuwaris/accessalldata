@@ -1,5 +1,5 @@
 {
- "indicator":"percentofterrestrialprotectedareasoftotallandareas_trrprotarea",
+ "indicator":"percentageofgirlsundergonefemalegenitalmalfunctionsagebetween15to49_fgmafa",
  "countryData":[
   {
    "Alpha-3 code":"DZA",
@@ -14,7 +14,7 @@
    "data":[
     {
      "year":2015,
-     "value":87.2
+     "value":14.1
     }
    ]
   },
@@ -38,7 +38,7 @@
    "data":[
     {
      "year":2014,
-     "value":86.6
+     "value":30.1
     }
    ]
   },
@@ -82,8 +82,8 @@
    "Country or Area":"Djibouti",
    "data":[
     {
-     "year":2019,
-     "value":90.05
+     "year":2012,
+     "value":42.9
     }
    ]
   },
@@ -93,7 +93,7 @@
    "data":[
     {
      "year":2010,
-     "value":83.0
+     "value":33.2
     }
    ]
   },
@@ -103,7 +103,7 @@
    "data":[
     {
      "year":2016,
-     "value":65.2
+     "value":15.7
     }
    ]
   },
@@ -120,7 +120,7 @@
    "data":[
     {
      "year":2014,
-     "value":21.0
+     "value":2.8
     }
    ]
   },
@@ -184,10 +184,7 @@
    "Alpha-3 code":"SOM",
    "Country or Area":"Somalia",
    "data":[
-    {
-     "year":2020,
-     "value":99.2
-    }
+
    ]
   },
   {
@@ -202,8 +199,8 @@
    "Country or Area":"Uganda",
    "data":[
     {
-     "year":2016,
-     "value":0.3
+     "year":2011,
+     "value":1.3
     }
    ]
   },
@@ -213,7 +210,7 @@
    "data":[
     {
      "year":2016,
-     "value":10.0
+     "value":0.4
     }
    ]
   },
@@ -242,10 +239,7 @@
    "Alpha-3 code":"CMR",
    "Country or Area":"Cameroon",
    "data":[
-    {
-     "year":2004,
-     "value":1.4
-    }
+
    ]
   },
   {
@@ -253,8 +247,8 @@
    "Country or Area":"Central African Republic",
    "data":[
     {
-     "year":2019,
-     "value":21.6
+     "year":2010,
+     "value":1.2
     }
    ]
   },
@@ -263,8 +257,8 @@
    "Country or Area":"Chad",
    "data":[
     {
-     "year":2019,
-     "value":34.1
+     "year":2014,
+     "value":9.9
     }
    ]
   },
@@ -344,7 +338,7 @@
    "data":[
     {
      "year":2014,
-     "value":9.2
+     "value":0.2
     }
    ]
   },
@@ -353,8 +347,8 @@
    "Country or Area":"Burkina Faso",
    "data":[
     {
-     "year":2015,
-     "value":67.6
+     "year":2010,
+     "value":13.3
     }
    ]
   },
@@ -371,7 +365,7 @@
    "data":[
     {
      "year":2016,
-     "value":36.7
+     "value":10.1
     }
    ]
   },
@@ -380,8 +374,8 @@
    "Country or Area":"Gambia",
    "data":[
     {
-     "year":2020,
-     "value":72.6
+     "year":2018,
+     "value":50.6
     }
    ]
   },
@@ -390,8 +384,8 @@
    "Country or Area":"Ghana",
    "data":[
     {
-     "year":2018,
-     "value":2.4
+     "year":2011,
+     "value":0.5
     }
    ]
   },
@@ -401,7 +395,7 @@
    "data":[
     {
      "year":2018,
-     "value":94.5
+     "value":39.1
     }
    ]
   },
@@ -410,8 +404,8 @@
    "Country or Area":"Guinea-Bissau",
    "data":[
     {
-     "year":2019,
-     "value":52.1
+     "year":2014,
+     "value":29.3
     }
    ]
   },
@@ -419,10 +413,7 @@
    "Alpha-3 code":"LBR",
    "Country or Area":"Liberia",
    "data":[
-    {
-     "year":2020,
-     "value":31.84
-    }
+
    ]
   },
   {
@@ -431,7 +422,7 @@
    "data":[
     {
      "year":2018,
-     "value":88.6
+     "value":72.6
     }
    ]
   },
@@ -440,8 +431,8 @@
    "Country or Area":"Mauritania",
    "data":[
     {
-     "year":2021,
-     "value":63.91
+     "year":2015,
+     "value":51.4
     }
    ]
   },
@@ -449,20 +440,14 @@
    "Alpha-3 code":"NER",
    "Country or Area":"Niger",
    "data":[
-    {
-     "year":2012,
-     "value":2.0
-    }
+
    ]
   },
   {
    "Alpha-3 code":"NGA",
    "Country or Area":"Nigeria",
    "data":[
-    {
-     "year":2021,
-     "value":15.11
-    }
+
    ]
   },
   {
@@ -477,8 +462,8 @@
    "Country or Area":"Senegal",
    "data":[
     {
-     "year":2019,
-     "value":25.2
+     "year":2017,
+     "value":13.9
     }
    ]
   },
@@ -487,8 +472,8 @@
    "Country or Area":"Sierra Leone",
    "data":[
     {
-     "year":2019,
-     "value":83.0
+     "year":2017,
+     "value":8.4
     }
    ]
   },
@@ -498,7 +483,7 @@
    "data":[
     {
      "year":2017,
-     "value":3.1
+     "value":0.3
     }
    ]
   },
@@ -1010,7 +995,10 @@
    "Alpha-3 code":"IDN",
    "Country or Area":"Indonesia",
    "data":[
-
+    {
+     "year":2013,
+     "value":49.2
+    }
    ]
   },
   {
@@ -1110,7 +1098,7 @@
    "data":[
     {
      "year":2017,
-     "value":12.9
+     "value":1.1
     }
    ]
   },
@@ -1176,7 +1164,7 @@
    "data":[
     {
      "year":2018,
-     "value":7.4
+     "value":0.5
     }
    ]
   },
@@ -1262,8 +1250,8 @@
    "Country or Area":"Yemen",
    "data":[
     {
-     "year":2013,
-     "value":18.5
+     "year":2012,
+     "value":15.0
     }
    ]
   },
